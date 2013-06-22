@@ -2,16 +2,20 @@ require 'csv'
 
 output = 
 "{ \"type\": \"FeatureCollection\",
-  \"features\": [
-    { \"type\": \"Feature\",
-      \"geometry\": {\"type\": \"Point\", \"coordinates\": [102.0, 0.5]},
-      \"properties\": {\"prop0\": \"value0\"}
-	}
-	]
+  \"features\": ["
+
+c = CSV.table('stationentrances.csv') 
+
+for i in 0..c.size-2
+	station = "{ \"type\": \"Feature\",
+      \"geometry\": {\"type\": \"Point\", \"coordinates\": [c[i][28], c[i][29]]},
+      \"properties\": {\"Name\": \"c[i][2]\"}
+      },\n\t\t"
+    output << station
+end
+
+output << 	"\n\t]
 }"
 
-CSV.foreach('stationentrances.csv', :headers => true) do |entrance| 
-	puts entrance[0]
-end
 
 File.open('./mta-entrances.geojson','w') {|f| f.write(output)}
