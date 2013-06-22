@@ -22,7 +22,7 @@ station = "{ \"type\": \"Feature\",
 
 
 
-output << 	"\n\t]
+output << station << "\n\t]
 }"
 
 
