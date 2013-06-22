@@ -7443,6 +7443,10 @@
       "geometry": {"type": "Point", "coordinates": [40.711026, -74.00919]},
       "properties": {"Name": "Fulton St"}
       },
+		{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.711112, -74.009382]},
+      "properties": {"Name": "Fulton St"}
+      },
 		
 	]
 }
