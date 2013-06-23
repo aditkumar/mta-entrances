@@ -1,30 +1,30 @@
 require 'csv'
 
 def colors(line) 
-	# output = "#FFFFFF"
-	# if ["A","C","E"].include? line 
-	# 	output = "#2850AD"
-	# elsif ["B","D","F","M"].include? line
-	# 	output = "#FF6319"
-	# elsif "G" == line
-	# 	output = "#6CBE45"
-	# elsif ["J","Z"].include? line
-	# 	output = "#996633"
-	# elsif "L" == line
-	# 	output = "#A7A9AC"
-	# elsif ["N","Q","R"].include? line
-	# 	output = "#FCCC0A"
-	# elsif "S" == line
-	# 	output = "#808183"
-	# elsif [1,2,3].include? line
-	# 	output = "#EE352E"
-	# elsif [4,5,6].include? line
-	# 	output = "#00933C"
-	# elsif 7 == line
-	# 	output = "#B933AD"
-	# else
-	# end
-	# return output
+	output = "#FFFFFF"
+	if ["A","C","E"].include? line 
+		output = "#2850AD"
+	elsif ["B","D","F","M"].include? line
+		output = "#FF6319"
+	elsif "G" == line
+		output = "#6CBE45"
+	elsif ["J","Z"].include? line
+		output = "#996633"
+	elsif "L" == line
+		output = "#A7A9AC"
+	elsif ["N","Q","R"].include? line
+		output = "#FCCC0A"
+	elsif "S" == line
+		output = "#808183"
+	elsif [1,2,3].include? line
+		output = "#EE352E"
+	elsif [4,5,6].include? line
+		output = "#00933C"
+	elsif 7 == line
+		output = "#B933AD"
+	else
+	end
+	return output
 end
 
 def createStation(entrance,last=false)
@@ -70,9 +70,10 @@ c = CSV.table('stationentrances.csv')
 allStations = []
 for i in 0..c.size-1
     output << createEntrance(c[i])
-    if !allStations.include? c[i][2]
+    stationHash = c[i][2].to_s << c[i][1].to_s
+    if !allStations.include? stationHash
     	output << createStation(c[i])
-    	allStations.push(c[i][2])
+    	allStations.push(stationHash)
     end
 end
 output << createEntrance(c[c.size-1],true)
