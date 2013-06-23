@@ -1,1427 +1,1427 @@
 { "type": "FeatureCollection",
   "features": [{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.912034,40.775036],[-73.912034,40.775036]]},
+      "geometry": {"type": "Point", "coordinates": [-73.912034,40.775036]},
       "properties": {"Name": "Ditmars Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.917843,40.770258],[-73.917843,40.770258]]},
+      "geometry": {"type": "Point", "coordinates": [-73.917843,40.770258]},
       "properties": {"Name": "Astoria Blvd-Hoyt Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.921479,40.766779],[-73.921479,40.766779]]},
+      "geometry": {"type": "Point", "coordinates": [-73.921479,40.766779]},
       "properties": {"Name": "30 Av-Grand Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.925508,40.76182],[-73.925508,40.76182]]},
+      "geometry": {"type": "Point", "coordinates": [-73.925508,40.76182]},
       "properties": {"Name": "Broadway" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.929575,40.756804],[-73.929575,40.756804]]},
+      "geometry": {"type": "Point", "coordinates": [-73.929575,40.756804]},
       "properties": {"Name": "36 Av-Washington Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.932755,40.752882],[-73.932755,40.752882]]},
+      "geometry": {"type": "Point", "coordinates": [-73.932755,40.752882]},
       "properties": {"Name": "39 Av-Beebe Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.973347,40.764811],[-73.973347,40.764811]]},
+      "geometry": {"type": "Point", "coordinates": [-73.973347,40.764811]},
       "properties": {"Name": "5th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.980658,40.764664],[-73.980658,40.764664]]},
+      "geometry": {"type": "Point", "coordinates": [-73.980658,40.764664]},
       "properties": {"Name": "57th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.984139,40.759901],[-73.984139,40.759901]]},
+      "geometry": {"type": "Point", "coordinates": [-73.984139,40.759901]},
       "properties": {"Name": "49th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.988691,40.745494],[-73.988691,40.745494]]},
+      "geometry": {"type": "Point", "coordinates": [-73.988691,40.745494]},
       "properties": {"Name": "28th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.989344,40.741303],[-73.989344,40.741303]]},
+      "geometry": {"type": "Point", "coordinates": [-73.989344,40.741303]},
       "properties": {"Name": "23rd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.990568,40.735736],[-73.990568,40.735736]]},
+      "geometry": {"type": "Point", "coordinates": [-73.990568,40.735736]},
       "properties": {"Name": "Union Square" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.992629,40.730328],[-73.992629,40.730328]]},
+      "geometry": {"type": "Point", "coordinates": [-73.992629,40.730328]},
       "properties": {"Name": "8th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.997702,40.724329],[-73.997702,40.724329]]},
+      "geometry": {"type": "Point", "coordinates": [-73.997702,40.724329]},
       "properties": {"Name": "Prince St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.006978,40.713282],[-74.006978,40.713282]]},
+      "geometry": {"type": "Point", "coordinates": [-74.006978,40.713282]},
       "properties": {"Name": "City Hall" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.011029,40.710668],[-74.011029,40.710668]]},
+      "geometry": {"type": "Point", "coordinates": [-74.011029,40.710668]},
       "properties": {"Name": "Cortlandt St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.013342,40.70722],[-74.013342,40.70722]]},
+      "geometry": {"type": "Point", "coordinates": [-74.013342,40.70722]},
       "properties": {"Name": "Rector St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.012994,40.703087],[-74.012994,40.703087]]},
+      "geometry": {"type": "Point", "coordinates": [-74.012994,40.703087]},
       "properties": {"Name": "Whitehall St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.985942,40.69218],[-73.985942,40.69218]]},
+      "geometry": {"type": "Point", "coordinates": [-73.985942,40.69218]},
       "properties": {"Name": "Lawrence St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.981824,40.690635],[-73.981824,40.690635]]},
+      "geometry": {"type": "Point", "coordinates": [-73.981824,40.690635]},
       "properties": {"Name": "DeKalb Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.97881,40.683666],[-73.97881,40.683666]]},
+      "geometry": {"type": "Point", "coordinates": [-73.97881,40.683666]},
       "properties": {"Name": "Atlantic Av-Barclays Ctr" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.97881,40.683666],[-73.97881,40.683666]]},
+      "geometry": {"type": "Point", "coordinates": [-73.97881,40.683666]},
       "properties": {"Name": "Pacific St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.98311,40.677316],[-73.98311,40.677316]]},
+      "geometry": {"type": "Point", "coordinates": [-73.98311,40.677316]},
       "properties": {"Name": "Union St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.988302,40.670847],[-73.988302,40.670847]]},
+      "geometry": {"type": "Point", "coordinates": [-73.988302,40.670847]},
       "properties": {"Name": "9th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.992872,40.665414],[-73.992872,40.665414]]},
+      "geometry": {"type": "Point", "coordinates": [-73.992872,40.665414]},
       "properties": {"Name": "Prospect Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.998091,40.660397],[-73.998091,40.660397]]},
+      "geometry": {"type": "Point", "coordinates": [-73.998091,40.660397]},
       "properties": {"Name": "25th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.003549,40.655144],[-74.003549,40.655144]]},
+      "geometry": {"type": "Point", "coordinates": [-74.003549,40.655144]},
       "properties": {"Name": "36th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.010006,40.648939],[-74.010006,40.648939]]},
+      "geometry": {"type": "Point", "coordinates": [-74.010006,40.648939]},
       "properties": {"Name": "45th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.014034,40.645069],[-74.014034,40.645069]]},
+      "geometry": {"type": "Point", "coordinates": [-74.014034,40.645069]},
       "properties": {"Name": "53rd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.017881,40.641362],[-74.017881,40.641362]]},
+      "geometry": {"type": "Point", "coordinates": [-74.017881,40.641362]},
       "properties": {"Name": "59th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.023377,40.634967],[-74.023377,40.634967]]},
+      "geometry": {"type": "Point", "coordinates": [-74.023377,40.634967]},
       "properties": {"Name": "Bay Ridge Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.02551,40.629742],[-74.02551,40.629742]]},
+      "geometry": {"type": "Point", "coordinates": [-74.02551,40.629742]},
       "properties": {"Name": "77th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.028398,40.622687],[-74.028398,40.622687]]},
+      "geometry": {"type": "Point", "coordinates": [-74.028398,40.622687]},
       "properties": {"Name": "86th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.030876,40.616622],[-74.030876,40.616622]]},
+      "geometry": {"type": "Point", "coordinates": [-74.030876,40.616622]},
       "properties": {"Name": "95th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.972367,40.67705],[-73.972367,40.67705]]},
+      "geometry": {"type": "Point", "coordinates": [-73.972367,40.67705]},
       "properties": {"Name": "7th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.962246,40.661614],[-73.962246,40.661614]]},
+      "geometry": {"type": "Point", "coordinates": [-73.962246,40.661614]},
       "properties": {"Name": "Prospect Park" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.961495,40.655292],[-73.961495,40.655292]]},
+      "geometry": {"type": "Point", "coordinates": [-73.961495,40.655292]},
       "properties": {"Name": "Parkside Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.962982,40.650527],[-73.962982,40.650527]]},
+      "geometry": {"type": "Point", "coordinates": [-73.962982,40.650527]},
       "properties": {"Name": "Church Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.964492,40.644031],[-73.964492,40.644031]]},
+      "geometry": {"type": "Point", "coordinates": [-73.964492,40.644031]},
       "properties": {"Name": "Beverly Rd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.963891,40.640927],[-73.963891,40.640927]]},
+      "geometry": {"type": "Point", "coordinates": [-73.963891,40.640927]},
       "properties": {"Name": "Cortelyou Rd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.962793,40.635082],[-73.962793,40.635082]]},
+      "geometry": {"type": "Point", "coordinates": [-73.962793,40.635082]},
       "properties": {"Name": "Newkirk Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.961639,40.62927],[-73.961639,40.62927]]},
+      "geometry": {"type": "Point", "coordinates": [-73.961639,40.62927]},
       "properties": {"Name": "Av H" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.960803,40.625039],[-73.960803,40.625039]]},
+      "geometry": {"type": "Point", "coordinates": [-73.960803,40.625039]},
       "properties": {"Name": "Av J" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.959399,40.617618],[-73.959399,40.617618]]},
+      "geometry": {"type": "Point", "coordinates": [-73.959399,40.617618]},
       "properties": {"Name": "Av M" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.957734,40.60867],[-73.957734,40.60867]]},
+      "geometry": {"type": "Point", "coordinates": [-73.957734,40.60867]},
       "properties": {"Name": "Kings Highway" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.955929,40.5993],[-73.955929,40.5993]]},
+      "geometry": {"type": "Point", "coordinates": [-73.955929,40.5993]},
       "properties": {"Name": "Av U" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.955161,40.595246],[-73.955161,40.595246]]},
+      "geometry": {"type": "Point", "coordinates": [-73.955161,40.595246]},
       "properties": {"Name": "Neck Rd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.954155,40.586896],[-73.954155,40.586896]]},
+      "geometry": {"type": "Point", "coordinates": [-73.954155,40.586896]},
       "properties": {"Name": "Sheepshead Bay" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.961376,40.577621],[-73.961376,40.577621]]},
+      "geometry": {"type": "Point", "coordinates": [-73.961376,40.577621]},
       "properties": {"Name": "Brighton Beach" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.968501,40.576312],[-73.968501,40.576312]]},
+      "geometry": {"type": "Point", "coordinates": [-73.968501,40.576312]},
       "properties": {"Name": "Ocean Parkway" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.975939,40.576127],[-73.975939,40.576127]]},
+      "geometry": {"type": "Point", "coordinates": [-73.975939,40.576127]},
       "properties": {"Name": "West 8th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.981233,40.577422],[-73.981233,40.577422]]},
+      "geometry": {"type": "Point", "coordinates": [-73.981233,40.577422]},
       "properties": {"Name": "Stillwell Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.994324,40.646292],[-73.994324,40.646292]]},
+      "geometry": {"type": "Point", "coordinates": [-73.994324,40.646292]},
       "properties": {"Name": "9th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.994304,40.640914],[-73.994304,40.640914]]},
+      "geometry": {"type": "Point", "coordinates": [-73.994304,40.640914]},
       "properties": {"Name": "Fort Hamilton Parkway" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.994791,40.63626],[-73.994791,40.63626]]},
+      "geometry": {"type": "Point", "coordinates": [-73.994791,40.63626]},
       "properties": {"Name": "50th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.995476,40.631435],[-73.995476,40.631435]]},
+      "geometry": {"type": "Point", "coordinates": [-73.995476,40.631435]},
       "properties": {"Name": "55th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.998864,40.619589],[-73.998864,40.619589]]},
+      "geometry": {"type": "Point", "coordinates": [-73.998864,40.619589]},
       "properties": {"Name": "71st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.00061,40.613501],[-74.00061,40.613501]]},
+      "geometry": {"type": "Point", "coordinates": [-74.00061,40.613501]},
       "properties": {"Name": "79th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.001736,40.607954],[-74.001736,40.607954]]},
+      "geometry": {"type": "Point", "coordinates": [-74.001736,40.607954]},
       "properties": {"Name": "18th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.998168,40.604556],[-73.998168,40.604556]]},
+      "geometry": {"type": "Point", "coordinates": [-73.998168,40.604556]},
       "properties": {"Name": "20th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.993728,40.601875],[-73.993728,40.601875]]},
+      "geometry": {"type": "Point", "coordinates": [-73.993728,40.601875]},
       "properties": {"Name": "Bay Parkway" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.986829,40.597704],[-73.986829,40.597704]]},
+      "geometry": {"type": "Point", "coordinates": [-73.986829,40.597704]},
       "properties": {"Name": "25th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.983765,40.588841],[-73.983765,40.588841]]},
+      "geometry": {"type": "Point", "coordinates": [-73.983765,40.588841]},
       "properties": {"Name": "Bay 50th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.011719,40.635064],[-74.011719,40.635064]]},
+      "geometry": {"type": "Point", "coordinates": [-74.011719,40.635064]},
       "properties": {"Name": "8th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.996353,40.624842],[-73.996353,40.624842]]},
+      "geometry": {"type": "Point", "coordinates": [-73.996353,40.624842]},
       "properties": {"Name": "New Utrecht Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.981848,40.611815],[-73.981848,40.611815]]},
+      "geometry": {"type": "Point", "coordinates": [-73.981848,40.611815]},
       "properties": {"Name": "Bay Parkway-22nd Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.828294,40.700492],[-73.828294,40.700492]]},
+      "geometry": {"type": "Point", "coordinates": [-73.828294,40.700492]},
       "properties": {"Name": "121st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.836345,40.697418],[-73.836345,40.697418]]},
+      "geometry": {"type": "Point", "coordinates": [-73.836345,40.697418]},
       "properties": {"Name": "111th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.84433,40.695178],[-73.84433,40.695178]]},
+      "geometry": {"type": "Point", "coordinates": [-73.84433,40.695178]},
       "properties": {"Name": "104th St-102nd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.851576,40.693879],[-73.851576,40.693879]]},
+      "geometry": {"type": "Point", "coordinates": [-73.851576,40.693879]},
       "properties": {"Name": "Woodhaven Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.86001,40.692435],[-73.86001,40.692435]]},
+      "geometry": {"type": "Point", "coordinates": [-73.86001,40.692435]},
       "properties": {"Name": "Forest Parkway-85th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.867139,40.691324],[-73.867139,40.691324]]},
+      "geometry": {"type": "Point", "coordinates": [-73.867139,40.691324]},
       "properties": {"Name": "Elderts Lane-75th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.87255,40.689941],[-73.87255,40.689941]]},
+      "geometry": {"type": "Point", "coordinates": [-73.87255,40.689941]},
       "properties": {"Name": "Cypress Hills" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.873785,40.683194],[-73.873785,40.683194]]},
+      "geometry": {"type": "Point", "coordinates": [-73.873785,40.683194]},
       "properties": {"Name": "Crescent St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.880039,40.68141],[-73.880039,40.68141]]},
+      "geometry": {"type": "Point", "coordinates": [-73.880039,40.68141]},
       "properties": {"Name": "Norwood Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.884639,40.679947],[-73.884639,40.679947]]},
+      "geometry": {"type": "Point", "coordinates": [-73.884639,40.679947]},
       "properties": {"Name": "Cleveland St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.891688,40.678024],[-73.891688,40.678024]]},
+      "geometry": {"type": "Point", "coordinates": [-73.891688,40.678024]},
       "properties": {"Name": "Van Siclen Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.898654,40.676992],[-73.898654,40.676992]]},
+      "geometry": {"type": "Point", "coordinates": [-73.898654,40.676992]},
       "properties": {"Name": "Alabama Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.910456,40.682893],[-73.910456,40.682893]]},
+      "geometry": {"type": "Point", "coordinates": [-73.910456,40.682893]},
       "properties": {"Name": "Chauncey St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.916559,40.68637],[-73.916559,40.68637]]},
+      "geometry": {"type": "Point", "coordinates": [-73.916559,40.68637]},
       "properties": {"Name": "Halsey St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.92227,40.68963],[-73.92227,40.68963]]},
+      "geometry": {"type": "Point", "coordinates": [-73.92227,40.68963]},
       "properties": {"Name": "Gates Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.928814,40.693342],[-73.928814,40.693342]]},
+      "geometry": {"type": "Point", "coordinates": [-73.928814,40.693342]},
       "properties": {"Name": "Kosciusko St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.935657,40.697207],[-73.935657,40.697207]]},
+      "geometry": {"type": "Point", "coordinates": [-73.935657,40.697207]},
       "properties": {"Name": "Myrtle Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.941126,40.70026],[-73.941126,40.70026]]},
+      "geometry": {"type": "Point", "coordinates": [-73.941126,40.70026]},
       "properties": {"Name": "Flushing Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.947408,40.703869],[-73.947408,40.703869]]},
+      "geometry": {"type": "Point", "coordinates": [-73.947408,40.703869]},
       "properties": {"Name": "Lorimer St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.953431,40.70687],[-73.953431,40.70687]]},
+      "geometry": {"type": "Point", "coordinates": [-73.953431,40.70687]},
       "properties": {"Name": "Hewes St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.957757,40.708359],[-73.957757,40.708359]]},
+      "geometry": {"type": "Point", "coordinates": [-73.957757,40.708359]},
       "properties": {"Name": "Marcy Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.987437,40.718315],[-73.987437,40.718315]]},
+      "geometry": {"type": "Point", "coordinates": [-73.987437,40.718315]},
       "properties": {"Name": "Essex St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.993915,40.72028],[-73.993915,40.72028]]},
+      "geometry": {"type": "Point", "coordinates": [-73.993915,40.72028]},
       "properties": {"Name": "Bowery" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.889601,40.711396],[-73.889601,40.711396]]},
+      "geometry": {"type": "Point", "coordinates": [-73.889601,40.711396]},
       "properties": {"Name": "Metropolitan Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.895877,40.706186],[-73.895877,40.706186]]},
+      "geometry": {"type": "Point", "coordinates": [-73.895877,40.706186]},
       "properties": {"Name": "Fresh Pond Rd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.903077,40.704423],[-73.903077,40.704423]]},
+      "geometry": {"type": "Point", "coordinates": [-73.903077,40.704423]},
       "properties": {"Name": "Forest Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.90774,40.702762],[-73.90774,40.702762]]},
+      "geometry": {"type": "Point", "coordinates": [-73.90774,40.702762]},
       "properties": {"Name": "Seneca Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.919711,40.698664],[-73.919711,40.698664]]},
+      "geometry": {"type": "Point", "coordinates": [-73.919711,40.698664]},
       "properties": {"Name": "Knickerbocker Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.927397,40.697857],[-73.927397,40.697857]]},
+      "geometry": {"type": "Point", "coordinates": [-73.927397,40.697857]},
       "properties": {"Name": "Central Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.986122,40.732849],[-73.986122,40.732849]]},
+      "geometry": {"type": "Point", "coordinates": [-73.986122,40.732849]},
       "properties": {"Name": "3rd Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.981628,40.730953],[-73.981628,40.730953]]},
+      "geometry": {"type": "Point", "coordinates": [-73.981628,40.730953]},
       "properties": {"Name": "1st Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.956872,40.717304],[-73.956872,40.717304]]},
+      "geometry": {"type": "Point", "coordinates": [-73.956872,40.717304]},
       "properties": {"Name": "Bedford Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.944053,40.714565],[-73.944053,40.714565]]},
+      "geometry": {"type": "Point", "coordinates": [-73.944053,40.714565]},
       "properties": {"Name": "Graham Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.94067,40.711926],[-73.94067,40.711926]]},
+      "geometry": {"type": "Point", "coordinates": [-73.94067,40.711926]},
       "properties": {"Name": "Grand St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.93985,40.707739],[-73.93985,40.707739]]},
+      "geometry": {"type": "Point", "coordinates": [-73.93985,40.707739]},
       "properties": {"Name": "Montrose Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.933147,40.706152],[-73.933147,40.706152]]},
+      "geometry": {"type": "Point", "coordinates": [-73.933147,40.706152]},
       "properties": {"Name": "Morgan Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.922913,40.706607],[-73.922913,40.706607]]},
+      "geometry": {"type": "Point", "coordinates": [-73.922913,40.706607]},
       "properties": {"Name": "Jefferson St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.904046,40.688764],[-73.904046,40.688764]]},
+      "geometry": {"type": "Point", "coordinates": [-73.904046,40.688764]},
       "properties": {"Name": "Wilson Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.905249,40.682829],[-73.905249,40.682829]]},
+      "geometry": {"type": "Point", "coordinates": [-73.905249,40.682829]},
       "properties": {"Name": "Bushwick Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.903097,40.675345],[-73.903097,40.675345]]},
+      "geometry": {"type": "Point", "coordinates": [-73.903097,40.675345]},
       "properties": {"Name": "Atlantic Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.901975,40.669367],[-73.901975,40.669367]]},
+      "geometry": {"type": "Point", "coordinates": [-73.901975,40.669367]},
       "properties": {"Name": "Sutter Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.900571,40.664038],[-73.900571,40.664038]]},
+      "geometry": {"type": "Point", "coordinates": [-73.900571,40.664038]},
       "properties": {"Name": "Livonia Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.899232,40.658733],[-73.899232,40.658733]]},
+      "geometry": {"type": "Point", "coordinates": [-73.899232,40.658733]},
       "properties": {"Name": "New Lots Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.899485,40.650573],[-73.899485,40.650573]]},
+      "geometry": {"type": "Point", "coordinates": [-73.899485,40.650573]},
       "properties": {"Name": "East 105th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.90185,40.646654],[-73.90185,40.646654]]},
+      "geometry": {"type": "Point", "coordinates": [-73.90185,40.646654]},
       "properties": {"Name": "Canarsie - Rockaway Parkway" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.955827,40.680596],[-73.955827,40.680596]]},
+      "geometry": {"type": "Point", "coordinates": [-73.955827,40.680596]},
       "properties": {"Name": "Franklin Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.957624,40.674772],[-73.957624,40.674772]]},
+      "geometry": {"type": "Point", "coordinates": [-73.957624,40.674772]},
       "properties": {"Name": "Park Place" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.959245,40.670343],[-73.959245,40.670343]]},
+      "geometry": {"type": "Point", "coordinates": [-73.959245,40.670343]},
       "properties": {"Name": "Botanic Gardens" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.919899,40.868072],[-73.919899,40.868072]]},
+      "geometry": {"type": "Point", "coordinates": [-73.919899,40.868072]},
       "properties": {"Name": "Inwood - 207th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.927271,40.865491],[-73.927271,40.865491]]},
+      "geometry": {"type": "Point", "coordinates": [-73.927271,40.865491]},
       "properties": {"Name": "Dyckman St-200th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.93418,40.859022],[-73.93418,40.859022]]},
+      "geometry": {"type": "Point", "coordinates": [-73.93418,40.859022]},
       "properties": {"Name": "190th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.937969,40.851695],[-73.937969,40.851695]]},
+      "geometry": {"type": "Point", "coordinates": [-73.937969,40.851695]},
       "properties": {"Name": "181st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.939704,40.847391],[-73.939704,40.847391]]},
+      "geometry": {"type": "Point", "coordinates": [-73.939704,40.847391]},
       "properties": {"Name": "175th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.939561,40.840719],[-73.939561,40.840719]]},
+      "geometry": {"type": "Point", "coordinates": [-73.939561,40.840719]},
       "properties": {"Name": "168th St - Washington Heights" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.939892,40.836013],[-73.939892,40.836013]]},
+      "geometry": {"type": "Point", "coordinates": [-73.939892,40.836013]},
       "properties": {"Name": "163rd St - Amsterdam Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.941514,40.830518],[-73.941514,40.830518]]},
+      "geometry": {"type": "Point", "coordinates": [-73.941514,40.830518]},
       "properties": {"Name": "155th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.944216,40.824783],[-73.944216,40.824783]]},
+      "geometry": {"type": "Point", "coordinates": [-73.944216,40.824783]},
       "properties": {"Name": "145th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.947649,40.817894],[-73.947649,40.817894]]},
+      "geometry": {"type": "Point", "coordinates": [-73.947649,40.817894]},
       "properties": {"Name": "135th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.952343,40.811109],[-73.952343,40.811109]]},
+      "geometry": {"type": "Point", "coordinates": [-73.952343,40.811109]},
       "properties": {"Name": "125th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.954882,40.805085],[-73.954882,40.805085]]},
+      "geometry": {"type": "Point", "coordinates": [-73.954882,40.805085]},
       "properties": {"Name": "116th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.958158,40.800605],[-73.958158,40.800605]]},
+      "geometry": {"type": "Point", "coordinates": [-73.958158,40.800605]},
       "properties": {"Name": "Cathedral Parkway-110th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.961454,40.796092],[-73.961454,40.796092]]},
+      "geometry": {"type": "Point", "coordinates": [-73.961454,40.796092]},
       "properties": {"Name": "103rd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.964699,40.791646],[-73.964699,40.791646]]},
+      "geometry": {"type": "Point", "coordinates": [-73.964699,40.791646]},
       "properties": {"Name": "96th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.972143,40.781433],[-73.972143,40.781433]]},
+      "geometry": {"type": "Point", "coordinates": [-73.972143,40.781433]},
       "properties": {"Name": "81st St - Museum of Natural History" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.97641,40.775594],[-73.97641,40.775594]]},
+      "geometry": {"type": "Point", "coordinates": [-73.97641,40.775594]},
       "properties": {"Name": "72nd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.989735,40.757308],[-73.989735,40.757308]]},
+      "geometry": {"type": "Point", "coordinates": [-73.989735,40.757308]},
       "properties": {"Name": "42nd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.993391,40.752287],[-73.993391,40.752287]]},
+      "geometry": {"type": "Point", "coordinates": [-73.993391,40.752287]},
       "properties": {"Name": "34th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.00169,40.740893],[-74.00169,40.740893]]},
+      "geometry": {"type": "Point", "coordinates": [-74.00169,40.740893]},
       "properties": {"Name": "14th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.000495,40.732338],[-74.000495,40.732338]]},
+      "geometry": {"type": "Point", "coordinates": [-74.000495,40.732338]},
       "properties": {"Name": "West 4th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.003739,40.726227],[-74.003739,40.726227]]},
+      "geometry": {"type": "Point", "coordinates": [-74.003739,40.726227]},
       "properties": {"Name": "Spring St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.005229,40.720824],[-74.005229,40.720824]]},
+      "geometry": {"type": "Point", "coordinates": [-74.005229,40.720824]},
       "properties": {"Name": "Canal St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.008585,40.714111],[-74.008585,40.714111]]},
+      "geometry": {"type": "Point", "coordinates": [-74.008585,40.714111]},
       "properties": {"Name": "Chambers St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.009781,40.712582],[-74.009781,40.712582]]},
+      "geometry": {"type": "Point", "coordinates": [-74.009781,40.712582]},
       "properties": {"Name": "World Trade Center" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.007691,40.710197],[-74.007691,40.710197]]},
+      "geometry": {"type": "Point", "coordinates": [-74.007691,40.710197]},
       "properties": {"Name": "Broadway-Nassau" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.990531,40.699337],[-73.990531,40.699337]]},
+      "geometry": {"type": "Point", "coordinates": [-73.990531,40.699337]},
       "properties": {"Name": "High St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.987342,40.692338],[-73.987342,40.692338]]},
+      "geometry": {"type": "Point", "coordinates": [-73.987342,40.692338]},
       "properties": {"Name": "Jay St - Borough Hall" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.985001,40.688484],[-73.985001,40.688484]]},
+      "geometry": {"type": "Point", "coordinates": [-73.985001,40.688484]},
       "properties": {"Name": "Hoyt & Schermerhorn" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.973946,40.686113],[-73.973946,40.686113]]},
+      "geometry": {"type": "Point", "coordinates": [-73.973946,40.686113]},
       "properties": {"Name": "Lafayette Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.965838,40.683263],[-73.965838,40.683263]]},
+      "geometry": {"type": "Point", "coordinates": [-73.965838,40.683263]},
       "properties": {"Name": "Clinton & Washington Avs" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.950426,40.680438],[-73.950426,40.680438]]},
+      "geometry": {"type": "Point", "coordinates": [-73.950426,40.680438]},
       "properties": {"Name": "Nostrand Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.940858,40.679921],[-73.940858,40.679921]]},
+      "geometry": {"type": "Point", "coordinates": [-73.940858,40.679921]},
       "properties": {"Name": "Kingston-Throop" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.930729,40.679364],[-73.930729,40.679364]]},
+      "geometry": {"type": "Point", "coordinates": [-73.930729,40.679364]},
       "properties": {"Name": "Utica Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.920786,40.678822],[-73.920786,40.678822]]},
+      "geometry": {"type": "Point", "coordinates": [-73.920786,40.678822]},
       "properties": {"Name": "Ralph Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.911946,40.67834],[-73.911946,40.67834]]},
+      "geometry": {"type": "Point", "coordinates": [-73.911946,40.67834]},
       "properties": {"Name": "Rockaway Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.905316,40.678334],[-73.905316,40.678334]]},
+      "geometry": {"type": "Point", "coordinates": [-73.905316,40.678334]},
       "properties": {"Name": "Broadway Junction-East New York" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.896548,40.674542],[-73.896548,40.674542]]},
+      "geometry": {"type": "Point", "coordinates": [-73.896548,40.674542]},
       "properties": {"Name": "Liberty Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.88075,40.67413],[-73.88075,40.67413]]},
+      "geometry": {"type": "Point", "coordinates": [-73.88075,40.67413]},
       "properties": {"Name": "Shepherd Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.872106,40.675377],[-73.872106,40.675377]]},
+      "geometry": {"type": "Point", "coordinates": [-73.872106,40.675377]},
       "properties": {"Name": "Euclid Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.86505,40.677044],[-73.86505,40.677044]]},
+      "geometry": {"type": "Point", "coordinates": [-73.86505,40.677044]},
       "properties": {"Name": "Grant Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.858992,40.679371],[-73.858992,40.679371]]},
+      "geometry": {"type": "Point", "coordinates": [-73.858992,40.679371]},
       "properties": {"Name": "80th St-Hudson St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.85147,40.679843],[-73.85147,40.679843]]},
+      "geometry": {"type": "Point", "coordinates": [-73.85147,40.679843]},
       "properties": {"Name": "88th St-Boyd Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.843853,40.680429],[-73.843853,40.680429]]},
+      "geometry": {"type": "Point", "coordinates": [-73.843853,40.680429]},
       "properties": {"Name": "Rockaway Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.837683,40.681711],[-73.837683,40.681711]]},
+      "geometry": {"type": "Point", "coordinates": [-73.837683,40.681711]},
       "properties": {"Name": "104th St-Oxford Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.832163,40.684331],[-73.832163,40.684331]]},
+      "geometry": {"type": "Point", "coordinates": [-73.832163,40.684331]},
       "properties": {"Name": "111th St-Greenwood Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.825798,40.685951],[-73.825798,40.685951]]},
+      "geometry": {"type": "Point", "coordinates": [-73.825798,40.685951]},
       "properties": {"Name": "Lefferts Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.834058,40.668234],[-73.834058,40.668234]]},
+      "geometry": {"type": "Point", "coordinates": [-73.834058,40.668234]},
       "properties": {"Name": "Aqueduct-North Conduit Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.830301,40.660476],[-73.830301,40.660476]]},
+      "geometry": {"type": "Point", "coordinates": [-73.830301,40.660476]},
       "properties": {"Name": "Howard Beach" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.815925,40.608382],[-73.815925,40.608382]]},
+      "geometry": {"type": "Point", "coordinates": [-73.815925,40.608382]},
       "properties": {"Name": "Broad Channel" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.813641,40.588034],[-73.813641,40.588034]]},
+      "geometry": {"type": "Point", "coordinates": [-73.813641,40.588034]},
       "properties": {"Name": "Beach 90th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.820558,40.585307],[-73.820558,40.585307]]},
+      "geometry": {"type": "Point", "coordinates": [-73.820558,40.585307]},
       "properties": {"Name": "Beach 98th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.827559,40.583209],[-73.827559,40.583209]]},
+      "geometry": {"type": "Point", "coordinates": [-73.827559,40.583209]},
       "properties": {"Name": "Beach 105th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.835592,40.580903],[-73.835592,40.580903]]},
+      "geometry": {"type": "Point", "coordinates": [-73.835592,40.580903]},
       "properties": {"Name": "Rockaway Park-Beach 116th" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.796924,40.590927],[-73.796924,40.590927]]},
+      "geometry": {"type": "Point", "coordinates": [-73.796924,40.590927]},
       "properties": {"Name": "Beach 67th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.788522,40.592374],[-73.788522,40.592374]]},
+      "geometry": {"type": "Point", "coordinates": [-73.788522,40.592374]},
       "properties": {"Name": "Beach 60th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.776013,40.592943],[-73.776013,40.592943]]},
+      "geometry": {"type": "Point", "coordinates": [-73.776013,40.592943]},
       "properties": {"Name": "Beach 44th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.768175,40.595398],[-73.768175,40.595398]]},
+      "geometry": {"type": "Point", "coordinates": [-73.768175,40.595398]},
       "properties": {"Name": "Beach 36th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.761353,40.600066],[-73.761353,40.600066]]},
+      "geometry": {"type": "Point", "coordinates": [-73.761353,40.600066]},
       "properties": {"Name": "Beach 25th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.755405,40.603995],[-73.755405,40.603995]]},
+      "geometry": {"type": "Point", "coordinates": [-73.755405,40.603995]},
       "properties": {"Name": "Far Rockaway-Mott Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.878855,40.874811],[-73.878855,40.874811]]},
+      "geometry": {"type": "Point", "coordinates": [-73.878855,40.874811]},
       "properties": {"Name": "Norwood-205th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.887138,40.873244],[-73.887138,40.873244]]},
+      "geometry": {"type": "Point", "coordinates": [-73.887138,40.873244]},
       "properties": {"Name": "Bedford Park Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.893509,40.866978],[-73.893509,40.866978]]},
+      "geometry": {"type": "Point", "coordinates": [-73.893509,40.866978]},
       "properties": {"Name": "Kingsbridge Rd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.897749,40.861296],[-73.897749,40.861296]]},
+      "geometry": {"type": "Point", "coordinates": [-73.897749,40.861296]},
       "properties": {"Name": "Fordham Rd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.900741,40.856093],[-73.900741,40.856093]]},
+      "geometry": {"type": "Point", "coordinates": [-73.900741,40.856093]},
       "properties": {"Name": "182nd-183rd Sts" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.905227,40.85041],[-73.905227,40.85041]]},
+      "geometry": {"type": "Point", "coordinates": [-73.905227,40.85041]},
       "properties": {"Name": "Tremont Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.910136,40.8459],[-73.910136,40.8459]]},
+      "geometry": {"type": "Point", "coordinates": [-73.910136,40.8459]},
       "properties": {"Name": "174-175th Sts" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.9134,40.839306],[-73.9134,40.839306]]},
+      "geometry": {"type": "Point", "coordinates": [-73.9134,40.839306]},
       "properties": {"Name": "170th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.918432,40.833769],[-73.918432,40.833769]]},
+      "geometry": {"type": "Point", "coordinates": [-73.918432,40.833769]},
       "properties": {"Name": "167th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.925651,40.827905],[-73.925651,40.827905]]},
+      "geometry": {"type": "Point", "coordinates": [-73.925651,40.827905]},
       "properties": {"Name": "Yankee Stadium-161st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.942836,40.754203],[-73.942836,40.754203]]},
+      "geometry": {"type": "Point", "coordinates": [-73.942836,40.754203]},
       "properties": {"Name": "21st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.95326,40.759145],[-73.95326,40.759145]]},
+      "geometry": {"type": "Point", "coordinates": [-73.95326,40.759145]},
       "properties": {"Name": "Roosevelt Island" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.96611,40.764627],[-73.96611,40.764627]]},
+      "geometry": {"type": "Point", "coordinates": [-73.96611,40.764627]},
       "properties": {"Name": "Lexington Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.981329,40.758663],[-73.981329,40.758663]]},
+      "geometry": {"type": "Point", "coordinates": [-73.981329,40.758663]},
       "properties": {"Name": "47-50th Sts Rockefeller Center" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.996204,40.725297],[-73.996204,40.725297]]},
+      "geometry": {"type": "Point", "coordinates": [-73.996204,40.725297]},
       "properties": {"Name": "Broadway-Lafayette St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.989938,40.723402],[-73.989938,40.723402]]},
+      "geometry": {"type": "Point", "coordinates": [-73.989938,40.723402]},
       "properties": {"Name": "2nd Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.988114,40.718611],[-73.988114,40.718611]]},
+      "geometry": {"type": "Point", "coordinates": [-73.988114,40.718611]},
       "properties": {"Name": "Delancey St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.990173,40.713715],[-73.990173,40.713715]]},
+      "geometry": {"type": "Point", "coordinates": [-73.990173,40.713715]},
       "properties": {"Name": "East Broadway" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.986885,40.699743],[-73.986885,40.699743]]},
+      "geometry": {"type": "Point", "coordinates": [-73.986885,40.699743]},
       "properties": {"Name": "York St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.990862,40.686145],[-73.990862,40.686145]]},
+      "geometry": {"type": "Point", "coordinates": [-73.990862,40.686145]},
       "properties": {"Name": "Bergen St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.995048,40.680303],[-73.995048,40.680303]]},
+      "geometry": {"type": "Point", "coordinates": [-73.995048,40.680303]},
       "properties": {"Name": "Carroll St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.995959,40.67358],[-73.995959,40.67358]]},
+      "geometry": {"type": "Point", "coordinates": [-73.995959,40.67358]},
       "properties": {"Name": "Smith-9th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.989779,40.670272],[-73.989779,40.670272]]},
+      "geometry": {"type": "Point", "coordinates": [-73.989779,40.670272]},
       "properties": {"Name": "4th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.979493,40.660365],[-73.979493,40.660365]]},
+      "geometry": {"type": "Point", "coordinates": [-73.979493,40.660365]},
       "properties": {"Name": "Prospect Park-15 St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.978172,40.636119],[-73.978172,40.636119]]},
+      "geometry": {"type": "Point", "coordinates": [-73.978172,40.636119]},
       "properties": {"Name": "Ditmas Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.976127,40.625322],[-73.976127,40.625322]]},
+      "geometry": {"type": "Point", "coordinates": [-73.976127,40.625322]},
       "properties": {"Name": "Av I" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.974197,40.61514],[-73.974197,40.61514]]},
+      "geometry": {"type": "Point", "coordinates": [-73.974197,40.61514]},
       "properties": {"Name": "Av N" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.973022,40.608944],[-73.973022,40.608944]]},
+      "geometry": {"type": "Point", "coordinates": [-73.973022,40.608944]},
       "properties": {"Name": "Av P" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.97425,40.58962],[-73.97425,40.58962]]},
+      "geometry": {"type": "Point", "coordinates": [-73.97425,40.58962]},
       "properties": {"Name": "Av X" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.974574,40.581011],[-73.974574,40.581011]]},
+      "geometry": {"type": "Point", "coordinates": [-73.974574,40.581011]},
       "properties": {"Name": "Neptune Av-Van Siclen" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.783817,40.712646],[-73.783817,40.712646]]},
+      "geometry": {"type": "Point", "coordinates": [-73.783817,40.712646]},
       "properties": {"Name": "Jamaica-179th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.793604,40.71047],[-73.793604,40.71047]]},
+      "geometry": {"type": "Point", "coordinates": [-73.793604,40.71047]},
       "properties": {"Name": "169th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.803326,40.707564],[-73.803326,40.707564]]},
+      "geometry": {"type": "Point", "coordinates": [-73.803326,40.707564]},
       "properties": {"Name": "Parsons Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.810708,40.70546],[-73.810708,40.70546]]},
+      "geometry": {"type": "Point", "coordinates": [-73.810708,40.70546]},
       "properties": {"Name": "Sutphin Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.820574,40.709179],[-73.820574,40.709179]]},
+      "geometry": {"type": "Point", "coordinates": [-73.820574,40.709179]},
       "properties": {"Name": "Briarwood-Van Wyck Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.831008,40.714441],[-73.831008,40.714441]]},
+      "geometry": {"type": "Point", "coordinates": [-73.831008,40.714441]},
       "properties": {"Name": "Kew Gardens-Union Turnpike" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.837324,40.718331],[-73.837324,40.718331]]},
+      "geometry": {"type": "Point", "coordinates": [-73.837324,40.718331]},
       "properties": {"Name": "75th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.844521,40.721691],[-73.844521,40.721691]]},
+      "geometry": {"type": "Point", "coordinates": [-73.844521,40.721691]},
       "properties": {"Name": "Forest Hills-71st Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.852719,40.726523],[-73.852719,40.726523]]},
+      "geometry": {"type": "Point", "coordinates": [-73.852719,40.726523]},
       "properties": {"Name": "67th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.861604,40.729846],[-73.861604,40.729846]]},
+      "geometry": {"type": "Point", "coordinates": [-73.861604,40.729846]},
       "properties": {"Name": "63rd Drive-Rego Park" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.877223,40.737015],[-73.877223,40.737015]]},
+      "geometry": {"type": "Point", "coordinates": [-73.877223,40.737015]},
       "properties": {"Name": "Grand Av-Newtown" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.882017,40.742454],[-73.882017,40.742454]]},
+      "geometry": {"type": "Point", "coordinates": [-73.882017,40.742454]},
       "properties": {"Name": "Elmhurst Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.891338,40.746644],[-73.891338,40.746644]]},
+      "geometry": {"type": "Point", "coordinates": [-73.891338,40.746644]},
       "properties": {"Name": "Jackson Heights-Roosevelt Ave" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.898453,40.749669],[-73.898453,40.749669]]},
+      "geometry": {"type": "Point", "coordinates": [-73.898453,40.749669]},
       "properties": {"Name": "65th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.906006,40.752885],[-73.906006,40.752885]]},
+      "geometry": {"type": "Point", "coordinates": [-73.906006,40.752885]},
       "properties": {"Name": "Northern Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.913333,40.756312],[-73.913333,40.756312]]},
+      "geometry": {"type": "Point", "coordinates": [-73.913333,40.756312]},
       "properties": {"Name": "46th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.92074,40.756879],[-73.92074,40.756879]]},
+      "geometry": {"type": "Point", "coordinates": [-73.92074,40.756879]},
       "properties": {"Name": "Steinway St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.937243,40.748973],[-73.937243,40.748973]]},
+      "geometry": {"type": "Point", "coordinates": [-73.937243,40.748973]},
       "properties": {"Name": "Queens Plaza" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.946,40.747846],[-73.946,40.747846]]},
+      "geometry": {"type": "Point", "coordinates": [-73.946,40.747846]},
       "properties": {"Name": "23rd St-Ely Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.969055,40.757552],[-73.969055,40.757552]]},
+      "geometry": {"type": "Point", "coordinates": [-73.969055,40.757552]},
       "properties": {"Name": "Lexington Av-53rd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.975224,40.760167],[-73.975224,40.760167]]},
+      "geometry": {"type": "Point", "coordinates": [-73.975224,40.760167]},
       "properties": {"Name": "5th Av-53rd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.801109,40.702147],[-73.801109,40.702147]]},
+      "geometry": {"type": "Point", "coordinates": [-73.801109,40.702147]},
       "properties": {"Name": "Parsons Blvd-Archer Av - Jamaica Center" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.807969,40.700486],[-73.807969,40.700486]]},
+      "geometry": {"type": "Point", "coordinates": [-73.807969,40.700486]},
       "properties": {"Name": "Sutphin Blvd-Archer Av - JFK" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.816859,40.702566],[-73.816859,40.702566]]},
+      "geometry": {"type": "Point", "coordinates": [-73.816859,40.702566]},
       "properties": {"Name": "Jamaica-Van Wyck" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.943832,40.746554],[-73.943832,40.746554]]},
+      "geometry": {"type": "Point", "coordinates": [-73.943832,40.746554]},
       "properties": {"Name": "Long Island City-Court Square" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.954449,40.731352],[-73.954449,40.731352]]},
+      "geometry": {"type": "Point", "coordinates": [-73.954449,40.731352]},
       "properties": {"Name": "Greenpoint Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.951277,40.724635],[-73.951277,40.724635]]},
+      "geometry": {"type": "Point", "coordinates": [-73.951277,40.724635]},
       "properties": {"Name": "Nassau Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.949046,40.694568],[-73.949046,40.694568]]},
+      "geometry": {"type": "Point", "coordinates": [-73.949046,40.694568]},
       "properties": {"Name": "Myrtle-Willoughby Avs" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.953522,40.689627],[-73.953522,40.689627]]},
+      "geometry": {"type": "Point", "coordinates": [-73.953522,40.689627]},
       "properties": {"Name": "Bedford-Nostrand Avs" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.96007,40.688873],[-73.96007,40.688873]]},
+      "geometry": {"type": "Point", "coordinates": [-73.96007,40.688873]},
       "properties": {"Name": "Classon Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.966839,40.688089],[-73.966839,40.688089]]},
+      "geometry": {"type": "Point", "coordinates": [-73.966839,40.688089]},
       "properties": {"Name": "Clinton-Washington Avs" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.975375,40.687119],[-73.975375,40.687119]]},
+      "geometry": {"type": "Point", "coordinates": [-73.975375,40.687119]},
       "properties": {"Name": "Fulton St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.898583,40.889248],[-73.898583,40.889248]]},
+      "geometry": {"type": "Point", "coordinates": [-73.898583,40.889248]},
       "properties": {"Name": "Van Cortlandt Park-242nd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.90087,40.884667],[-73.90087,40.884667]]},
+      "geometry": {"type": "Point", "coordinates": [-73.90087,40.884667]},
       "properties": {"Name": "238th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.904834,40.878856],[-73.904834,40.878856]]},
+      "geometry": {"type": "Point", "coordinates": [-73.904834,40.878856]},
       "properties": {"Name": "231st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.909831,40.874561],[-73.909831,40.874561]]},
+      "geometry": {"type": "Point", "coordinates": [-73.909831,40.874561]},
       "properties": {"Name": "Marble Hill-225th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.915279,40.869444],[-73.915279,40.869444]]},
+      "geometry": {"type": "Point", "coordinates": [-73.915279,40.869444]},
       "properties": {"Name": "215th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.918819,40.864614],[-73.918819,40.864614]]},
+      "geometry": {"type": "Point", "coordinates": [-73.918819,40.864614]},
       "properties": {"Name": "207th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.925536,40.860531],[-73.925536,40.860531]]},
+      "geometry": {"type": "Point", "coordinates": [-73.925536,40.860531]},
       "properties": {"Name": "Dyckman St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.929412,40.855225],[-73.929412,40.855225]]},
+      "geometry": {"type": "Point", "coordinates": [-73.929412,40.855225]},
       "properties": {"Name": "191st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.94489,40.834041],[-73.94489,40.834041]]},
+      "geometry": {"type": "Point", "coordinates": [-73.94489,40.834041]},
       "properties": {"Name": "157th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.953676,40.822008],[-73.953676,40.822008]]},
+      "geometry": {"type": "Point", "coordinates": [-73.953676,40.822008]},
       "properties": {"Name": "137th St-City College" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.96411,40.807722],[-73.96411,40.807722]]},
+      "geometry": {"type": "Point", "coordinates": [-73.96411,40.807722]},
       "properties": {"Name": "116th St-Columbia University" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.982209,40.77344],[-73.982209,40.77344]]},
+      "geometry": {"type": "Point", "coordinates": [-73.982209,40.77344]},
       "properties": {"Name": "66th St-Lincoln Center" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.987495,40.75529],[-73.987495,40.75529]]},
+      "geometry": {"type": "Point", "coordinates": [-73.987495,40.75529]},
       "properties": {"Name": "Times Square" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.997871,40.74104],[-73.997871,40.74104]]},
+      "geometry": {"type": "Point", "coordinates": [-73.997871,40.74104]},
       "properties": {"Name": "18th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.002906,40.733422],[-74.002906,40.733422]]},
+      "geometry": {"type": "Point", "coordinates": [-74.002906,40.733422]},
       "properties": {"Name": "Christopher St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.005367,40.728251],[-74.005367,40.728251]]},
+      "geometry": {"type": "Point", "coordinates": [-74.005367,40.728251]},
       "properties": {"Name": "Houston St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.006886,40.719318],[-74.006886,40.719318]]},
+      "geometry": {"type": "Point", "coordinates": [-74.006886,40.719318]},
       "properties": {"Name": "Franklin St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.0091,40.706821],[-74.0091,40.706821]]},
+      "geometry": {"type": "Point", "coordinates": [-74.0091,40.706821]},
       "properties": {"Name": "Wall St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.993086,40.697466],[-73.993086,40.697466]]},
+      "geometry": {"type": "Point", "coordinates": [-73.993086,40.697466]},
       "properties": {"Name": "Clark St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.989998,40.693219],[-73.989998,40.693219]]},
+      "geometry": {"type": "Point", "coordinates": [-73.989998,40.693219]},
       "properties": {"Name": "Borough Hall" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.985065,40.690545],[-73.985065,40.690545]]},
+      "geometry": {"type": "Point", "coordinates": [-73.985065,40.690545]},
       "properties": {"Name": "Hoyt St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.980492,40.688246],[-73.980492,40.688246]]},
+      "geometry": {"type": "Point", "coordinates": [-73.980492,40.688246]},
       "properties": {"Name": "Nevins St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.971046,40.675235],[-73.971046,40.675235]]},
+      "geometry": {"type": "Point", "coordinates": [-73.971046,40.675235]},
       "properties": {"Name": "Grand Army Plaza" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.964375,40.671987],[-73.964375,40.671987]]},
+      "geometry": {"type": "Point", "coordinates": [-73.964375,40.671987]},
       "properties": {"Name": "Eastern Parkway-Brooklyn Museum" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.942161,40.669399],[-73.942161,40.669399]]},
+      "geometry": {"type": "Point", "coordinates": [-73.942161,40.669399]},
       "properties": {"Name": "Kingston Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.916327,40.661453],[-73.916327,40.661453]]},
+      "geometry": {"type": "Point", "coordinates": [-73.916327,40.661453]},
       "properties": {"Name": "Saratoga Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.902447,40.663515],[-73.902447,40.663515]]},
+      "geometry": {"type": "Point", "coordinates": [-73.902447,40.663515]},
       "properties": {"Name": "Junius St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.894895,40.664635],[-73.894895,40.664635]]},
+      "geometry": {"type": "Point", "coordinates": [-73.894895,40.664635]},
       "properties": {"Name": "Pennsylvania Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.950683,40.667883],[-73.950683,40.667883]]},
+      "geometry": {"type": "Point", "coordinates": [-73.950683,40.667883]},
       "properties": {"Name": "President St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.95085,40.662742],[-73.95085,40.662742]]},
+      "geometry": {"type": "Point", "coordinates": [-73.95085,40.662742]},
       "properties": {"Name": "Sterling St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.9502,40.656652],[-73.9502,40.656652]]},
+      "geometry": {"type": "Point", "coordinates": [-73.9502,40.656652]},
       "properties": {"Name": "Winthrop St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.947642,40.632836],[-73.947642,40.632836]]},
+      "geometry": {"type": "Point", "coordinates": [-73.947642,40.632836]},
       "properties": {"Name": "Flatbush Av-Brooklyn College" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.828121,40.852462],[-73.828121,40.852462]]},
+      "geometry": {"type": "Point", "coordinates": [-73.828121,40.852462]},
       "properties": {"Name": "Pelham Bay Park" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.832569,40.84681],[-73.832569,40.84681]]},
+      "geometry": {"type": "Point", "coordinates": [-73.832569,40.84681]},
       "properties": {"Name": "Buhre Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.836322,40.843863],[-73.836322,40.843863]]},
+      "geometry": {"type": "Point", "coordinates": [-73.836322,40.843863]},
       "properties": {"Name": "Middletown Rd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.842952,40.839892],[-73.842952,40.839892]]},
+      "geometry": {"type": "Point", "coordinates": [-73.842952,40.839892]},
       "properties": {"Name": "Westchester Square-East Tremont Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.847036,40.836488],[-73.847036,40.836488]]},
+      "geometry": {"type": "Point", "coordinates": [-73.847036,40.836488]},
       "properties": {"Name": "Zerega Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.851222,40.834255],[-73.851222,40.834255]]},
+      "geometry": {"type": "Point", "coordinates": [-73.851222,40.834255]},
       "properties": {"Name": "Castle Hill Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.860816,40.833226],[-73.860816,40.833226]]},
+      "geometry": {"type": "Point", "coordinates": [-73.860816,40.833226]},
       "properties": {"Name": "Parkchester-East 177th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.867618,40.831509],[-73.867618,40.831509]]},
+      "geometry": {"type": "Point", "coordinates": [-73.867618,40.831509]},
       "properties": {"Name": "St Lawrence Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.874516,40.829521],[-73.874516,40.829521]]},
+      "geometry": {"type": "Point", "coordinates": [-73.874516,40.829521]},
       "properties": {"Name": "Morrison Av-Soundview Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.879159,40.828584],[-73.879159,40.828584]]},
+      "geometry": {"type": "Point", "coordinates": [-73.879159,40.828584]},
       "properties": {"Name": "Elder Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.886283,40.826525],[-73.886283,40.826525]]},
+      "geometry": {"type": "Point", "coordinates": [-73.886283,40.826525]},
       "properties": {"Name": "Whitlock Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.890549,40.820948],[-73.890549,40.820948]]},
+      "geometry": {"type": "Point", "coordinates": [-73.890549,40.820948]},
       "properties": {"Name": "Hunts Point Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.896435,40.816104],[-73.896435,40.816104]]},
+      "geometry": {"type": "Point", "coordinates": [-73.896435,40.816104]},
       "properties": {"Name": "Longwood Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.904098,40.812118],[-73.904098,40.812118]]},
+      "geometry": {"type": "Point", "coordinates": [-73.904098,40.812118]},
       "properties": {"Name": "East 149th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.907657,40.808719],[-73.907657,40.808719]]},
+      "geometry": {"type": "Point", "coordinates": [-73.907657,40.808719]},
       "properties": {"Name": "East 143rd St-St Mary's St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.914042,40.805368],[-73.914042,40.805368]]},
+      "geometry": {"type": "Point", "coordinates": [-73.914042,40.805368]},
       "properties": {"Name": "Cypress Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.91924,40.807566],[-73.91924,40.807566]]},
+      "geometry": {"type": "Point", "coordinates": [-73.91924,40.807566]},
       "properties": {"Name": "Brook Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.926138,40.810476],[-73.926138,40.810476]]},
+      "geometry": {"type": "Point", "coordinates": [-73.926138,40.810476]},
       "properties": {"Name": "138th St-3rd Ave" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.878751,40.886037],[-73.878751,40.886037]]},
+      "geometry": {"type": "Point", "coordinates": [-73.878751,40.886037]},
       "properties": {"Name": "Woodlawn" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.884655,40.87975],[-73.884655,40.87975]]},
+      "geometry": {"type": "Point", "coordinates": [-73.884655,40.87975]},
       "properties": {"Name": "Mosholu Parkway" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.890064,40.873412],[-73.890064,40.873412]]},
+      "geometry": {"type": "Point", "coordinates": [-73.890064,40.873412]},
       "properties": {"Name": "Bedford Park Blvd-Lehman College" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.903879,40.858407],[-73.903879,40.858407]]},
+      "geometry": {"type": "Point", "coordinates": [-73.903879,40.858407]},
       "properties": {"Name": "183rd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.907684,40.853453],[-73.907684,40.853453]]},
+      "geometry": {"type": "Point", "coordinates": [-73.907684,40.853453]},
       "properties": {"Name": "Burnside Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.911794,40.84848],[-73.911794,40.84848]]},
+      "geometry": {"type": "Point", "coordinates": [-73.911794,40.84848]},
       "properties": {"Name": "176th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.914685,40.844434],[-73.914685,40.844434]]},
+      "geometry": {"type": "Point", "coordinates": [-73.914685,40.844434]},
       "properties": {"Name": "Mt Eden Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.927351,40.818375],[-73.927351,40.818375]]},
+      "geometry": {"type": "Point", "coordinates": [-73.927351,40.818375]},
       "properties": {"Name": "149th St-Grand Concourse" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.929849,40.813224],[-73.929849,40.813224]]},
+      "geometry": {"type": "Point", "coordinates": [-73.929849,40.813224]},
       "properties": {"Name": "138th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.94425,40.79502],[-73.94425,40.79502]]},
+      "geometry": {"type": "Point", "coordinates": [-73.94425,40.79502]},
       "properties": {"Name": "110th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.96387,40.768141],[-73.96387,40.768141]]},
+      "geometry": {"type": "Point", "coordinates": [-73.96387,40.768141]},
       "properties": {"Name": "68th St-Hunter College" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.97192,40.757107],[-73.97192,40.757107]]},
+      "geometry": {"type": "Point", "coordinates": [-73.97192,40.757107]},
       "properties": {"Name": "51st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.982076,40.746081],[-73.982076,40.746081]]},
+      "geometry": {"type": "Point", "coordinates": [-73.982076,40.746081]},
       "properties": {"Name": "33rd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.989951,40.734673],[-73.989951,40.734673]]},
+      "geometry": {"type": "Point", "coordinates": [-73.989951,40.734673]},
       "properties": {"Name": "14th St-Union Square" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.99107,40.730054],[-73.99107,40.730054]]},
+      "geometry": {"type": "Point", "coordinates": [-73.99107,40.730054]},
       "properties": {"Name": "Astor Place" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.994659,40.725915],[-73.994659,40.725915]]},
+      "geometry": {"type": "Point", "coordinates": [-73.994659,40.725915]},
       "properties": {"Name": "Bleecker St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.004131,40.713065],[-74.004131,40.713065]]},
+      "geometry": {"type": "Point", "coordinates": [-74.004131,40.713065]},
       "properties": {"Name": "Brooklyn Bridge-City Hall" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.014065,40.704817],[-74.014065,40.704817]]},
+      "geometry": {"type": "Point", "coordinates": [-74.014065,40.704817]},
       "properties": {"Name": "Bowling Green" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.85062,40.903125],[-73.85062,40.903125]]},
+      "geometry": {"type": "Point", "coordinates": [-73.85062,40.903125]},
       "properties": {"Name": "Wakefield-241st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.854376,40.898379],[-73.854376,40.898379]]},
+      "geometry": {"type": "Point", "coordinates": [-73.854376,40.898379]},
       "properties": {"Name": "238th St-Nereid Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.857473,40.893193],[-73.857473,40.893193]]},
+      "geometry": {"type": "Point", "coordinates": [-73.857473,40.893193]},
       "properties": {"Name": "233rd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.860341,40.888022],[-73.860341,40.888022]]},
+      "geometry": {"type": "Point", "coordinates": [-73.860341,40.888022]},
       "properties": {"Name": "225th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.862633,40.883895],[-73.862633,40.883895]]},
+      "geometry": {"type": "Point", "coordinates": [-73.862633,40.883895]},
       "properties": {"Name": "219th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.866256,40.87785],[-73.866256,40.87785]]},
+      "geometry": {"type": "Point", "coordinates": [-73.866256,40.87785]},
       "properties": {"Name": "Gun Hill Rd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.867164,40.871356],[-73.867164,40.871356]]},
+      "geometry": {"type": "Point", "coordinates": [-73.867164,40.871356]},
       "properties": {"Name": "Burke Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.867352,40.865462],[-73.867352,40.865462]]},
+      "geometry": {"type": "Point", "coordinates": [-73.867352,40.865462]},
       "properties": {"Name": "Allerton Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.867615,40.857192],[-73.867615,40.857192]]},
+      "geometry": {"type": "Point", "coordinates": [-73.867615,40.857192]},
       "properties": {"Name": "Pelham Parkway" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.868457,40.848828],[-73.868457,40.848828]]},
+      "geometry": {"type": "Point", "coordinates": [-73.868457,40.848828]},
       "properties": {"Name": "Bronx Park East" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.873488,40.841894],[-73.873488,40.841894]]},
+      "geometry": {"type": "Point", "coordinates": [-73.873488,40.841894]},
       "properties": {"Name": "East 180th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.880049,40.840295],[-73.880049,40.840295]]},
+      "geometry": {"type": "Point", "coordinates": [-73.880049,40.840295]},
       "properties": {"Name": "East Tremont Av-West Farms Sq" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.887734,40.837288],[-73.887734,40.837288]]},
+      "geometry": {"type": "Point", "coordinates": [-73.887734,40.837288]},
       "properties": {"Name": "174th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.891865,40.829993],[-73.891865,40.829993]]},
+      "geometry": {"type": "Point", "coordinates": [-73.891865,40.829993]},
       "properties": {"Name": "Freeman St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.893064,40.824073],[-73.893064,40.824073]]},
+      "geometry": {"type": "Point", "coordinates": [-73.893064,40.824073]},
       "properties": {"Name": "Simpson St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.896736,40.822181],[-73.896736,40.822181]]},
+      "geometry": {"type": "Point", "coordinates": [-73.896736,40.822181]},
       "properties": {"Name": "Intervale Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.907807,40.81649],[-73.907807,40.81649]]},
+      "geometry": {"type": "Point", "coordinates": [-73.907807,40.81649]},
       "properties": {"Name": "Jackson Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.917757,40.816109],[-73.917757,40.816109]]},
+      "geometry": {"type": "Point", "coordinates": [-73.917757,40.816109]},
       "properties": {"Name": "149th St-3rd Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.93647,40.82388],[-73.93647,40.82388]]},
+      "geometry": {"type": "Point", "coordinates": [-73.93647,40.82388]},
       "properties": {"Name": "Harlem-148th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.951822,40.799075],[-73.951822,40.799075]]},
+      "geometry": {"type": "Point", "coordinates": [-73.951822,40.799075]},
       "properties": {"Name": "110th St-Central Park North" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.83003,40.7596],[-73.83003,40.7596]]},
+      "geometry": {"type": "Point", "coordinates": [-73.83003,40.7596]},
       "properties": {"Name": "Flushing-Main St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.845625,40.754622],[-73.845625,40.754622]]},
+      "geometry": {"type": "Point", "coordinates": [-73.845625,40.754622]},
       "properties": {"Name": "Mets - Willets Point" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.869527,40.749145],[-73.869527,40.749145]]},
+      "geometry": {"type": "Point", "coordinates": [-73.869527,40.749145]},
       "properties": {"Name": "Junction Blvd" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.876613,40.748408],[-73.876613,40.748408]]},
+      "geometry": {"type": "Point", "coordinates": [-73.876613,40.748408]},
       "properties": {"Name": "90th St Elmhurst" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.883697,40.747659],[-73.883697,40.747659]]},
+      "geometry": {"type": "Point", "coordinates": [-73.883697,40.747659]},
       "properties": {"Name": "82nd St-Jackson Heights" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.896403,40.746325],[-73.896403,40.746325]]},
+      "geometry": {"type": "Point", "coordinates": [-73.896403,40.746325]},
       "properties": {"Name": "Fisk Av-69th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.902984,40.74563],[-73.902984,40.74563]]},
+      "geometry": {"type": "Point", "coordinates": [-73.902984,40.74563]},
       "properties": {"Name": "Woodside Av-61st St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.912549,40.744149],[-73.912549,40.744149]]},
+      "geometry": {"type": "Point", "coordinates": [-73.912549,40.744149]},
       "properties": {"Name": "Lincoln Av-52nd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.918435,40.743132],[-73.918435,40.743132]]},
+      "geometry": {"type": "Point", "coordinates": [-73.918435,40.743132]},
       "properties": {"Name": "Bliss St-46th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.924016,40.743781],[-73.924016,40.743781]]},
+      "geometry": {"type": "Point", "coordinates": [-73.924016,40.743781]},
       "properties": {"Name": "Lowery St-40th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.930997,40.744587],[-73.930997,40.744587]]},
+      "geometry": {"type": "Point", "coordinates": [-73.930997,40.744587]},
       "properties": {"Name": "Rawson St-33rd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.940202,40.750582],[-73.940202,40.750582]]},
+      "geometry": {"type": "Point", "coordinates": [-73.940202,40.750582]},
       "properties": {"Name": "Queensboro Plaza" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.945264,40.747023],[-73.945264,40.747023]]},
+      "geometry": {"type": "Point", "coordinates": [-73.945264,40.747023]},
       "properties": {"Name": "45 Rd-Court House Sq" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.948916,40.742216],[-73.948916,40.742216]]},
+      "geometry": {"type": "Point", "coordinates": [-73.948916,40.742216]},
       "properties": {"Name": "Hunters Point" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.953581,40.742626],[-73.953581,40.742626]]},
+      "geometry": {"type": "Point", "coordinates": [-73.953581,40.742626]},
       "properties": {"Name": "Vernon Blvd-Jackson Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.013664,40.702068],[-74.013664,40.702068]]},
+      "geometry": {"type": "Point", "coordinates": [-74.013664,40.702068]},
       "properties": {"Name": "South Ferry" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.986754,40.754672],[-73.986754,40.754672]]},
+      "geometry": {"type": "Point", "coordinates": [-73.986754,40.754672]},
       "properties": {"Name": "Times Square-42nd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.001775,40.719527],[-74.001775,40.719527]]},
+      "geometry": {"type": "Point", "coordinates": [-74.001775,40.719527]},
       "properties": {"Name": "Canal St (UL)" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.991777,40.6941],[-73.991777,40.6941]]},
+      "geometry": {"type": "Point", "coordinates": [-73.991777,40.6941]},
       "properties": {"Name": "Court St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.996895,40.626472],[-73.996895,40.626472]]},
+      "geometry": {"type": "Point", "coordinates": [-73.996895,40.626472]},
       "properties": {"Name": "62nd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-74.011056,40.706476],[-74.011056,40.706476]]},
+      "geometry": {"type": "Point", "coordinates": [-74.011056,40.706476]},
       "properties": {"Name": "Broad St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.996786,40.737335],[-73.996786,40.737335]]},
+      "geometry": {"type": "Point", "coordinates": [-73.996786,40.737335]},
       "properties": {"Name": "6th Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.940133,40.840556],[-73.940133,40.840556]]},
+      "geometry": {"type": "Point", "coordinates": [-73.940133,40.840556]},
       "properties": {"Name": "168th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.981929,40.768247],[-73.981929,40.768247]]},
+      "geometry": {"type": "Point", "coordinates": [-73.981929,40.768247]},
       "properties": {"Name": "59th St-Columbus Circle" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.976848,40.751776],[-73.976848,40.751776]]},
+      "geometry": {"type": "Point", "coordinates": [-73.976848,40.751776]},
       "properties": {"Name": "Grand Central-42nd St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.891394,40.746848],[-73.891394,40.746848]]},
+      "geometry": {"type": "Point", "coordinates": [-73.891394,40.746848]},
       "properties": {"Name": "Broadway-74th St" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.979189,40.752769],[-73.979189,40.752769]]},
+      "geometry": {"type": "Point", "coordinates": [-73.979189,40.752769]},
       "properties": {"Name": "Grand Central" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.838591,40.878663],[-73.838591,40.878663]]},
+      "geometry": {"type": "Point", "coordinates": [-73.838591,40.878663]},
       "properties": {"Name": "Baychester Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.835812,40.672131],[-73.835812,40.672131]]},
+      "geometry": {"type": "Point", "coordinates": [-73.835812,40.672131]},
       "properties": {"Name": "Aqueduct Racetrack" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.830834,40.8883],[-73.830834,40.8883]]},
+      "geometry": {"type": "Point", "coordinates": [-73.830834,40.8883]},
       "properties": {"Name": "Eastchester-Dyre Av" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
-      "geometry": {"type": "LineString", "coordinates": [[-73.860495,40.854364],[-73.860495,40.854364]]},
+      "geometry": {"type": "Point", "coordinates": [-73.860495,40.854364]},
       "properties": {"Name": "Morris Park" , "marker-size" : "small"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.009509,40.710368],[-74.009382, 40.711112]]},
-      "properties": {"Name": "Fulton St" , "marker-size" : "small"}
+      "properties": {"Name": "Fulton St" , "color" : "#FFFAAA"}
       }
 		
 	]
