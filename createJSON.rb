@@ -44,7 +44,7 @@ end
 def createEntrance(entrance,last=false)
 	ent = "{ \"type\": \"Feature\",
       \"geometry\": {\"type\": \"LineString\", \"coordinates\": [[#{entrance[4]},#{entrance[3]}],[#{entrance[29]}, #{entrance[28]}]]},
-      \"properties\": {\"Name\": \"#{entranceName(entrance)}\" , \"line-color\" : \"#FFFAAA\"}
+      \"properties\": {\"Name\": \"#{entranceName(entrance)}\"}
       }"
       if !last 
       	ent << ",\n\t\t"
@@ -55,7 +55,7 @@ def createEntrance(entrance,last=false)
 end
 
 def entranceName(entrance)
-	return "" << entrance[25].to_s << " & " << entrance[26].to_s << entrance[27].to_s
+	return "" << entrance[25].to_s << " & " << entrance[26].to_s << " " << entrance[27].to_s
 end
 def stationName(entrance)
 	return entrance[2]+" "+entrance[1]
