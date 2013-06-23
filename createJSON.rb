@@ -31,7 +31,7 @@ def createStation(entrance,last=false)
 	stationColor = colors(entrance[5])
 	station = "{ \"type\": \"Feature\",
       \"geometry\": {\"type\": \"Point\", \"coordinates\": [#{entrance[4]},#{entrance[3]}]},
-      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\", \"marker-color\" : \"#{stationColor}\",\"marker-symbol\" : \"circle\"}
+      \"properties\": {\"Name\": \"#{entrance[2]} (#{entrance[1]})\" , \"marker-size\" : \"small\", \"marker-color\" : \"#{stationColor}\",\"marker-symbol\" : \"circle\"}
       }"
       if !last 
       	station << ",\n\t\t"
@@ -55,7 +55,7 @@ def createEntrance(entrance,last=false)
 end
 
 def entranceName(entrance)
-	return "" << entrance[25].to_s << " & " << entrance[26].to_s << " " << entrance[27].to_s
+	return "" + entrance[25].to_s + " & " + entrance[26].to_s + " " + entrance[27].to_s
 end
 def stationName(entrance)
 	return entrance[2]+" "+entrance[1]
@@ -70,7 +70,7 @@ c = CSV.table('stationentrances.csv')
 allStations = []
 for i in 0..c.size-1
     output << createEntrance(c[i])
-    stationHash = c[i][2].to_s << c[i][1].to_s
+    stationHash = c[i][2].to_s + c[i][1].to_s
     if !allStations.include? stationHash
     	output << createStation(c[i])
     	allStations.push(stationHash)
