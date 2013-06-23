@@ -17,7 +17,7 @@ end
 
 def createStation(entrance,last=false)
 	station = "{ \"type\": \"Feature\",
-      \"geometry\": {\"type\": \"Point\", \"coordinates\": [#{entrance[4]},#{entrance[3]}]},
+      \"geometry\": {\"type\": \"LineString\", \"coordinates\": [[#{entrance[4]},#{entrance[3]}],[#{entrance[4]},#{entrance[3]}]]},
       \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\"}
       }"
       if !last 
