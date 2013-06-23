@@ -15,19 +15,30 @@ def colors(line)
 	end
 end
 
-def createStation
-end
-
-def createEntrance(entrance,last=false)
+def createStation(entrance,last=false)
 	station = "{ \"type\": \"Feature\",
-      \"geometry\": {\"type\": \"LineString\", \"coordinates\": [[#{entrance[4]},#{entrance[3]}],[#{entrance[29]}, #{entrance[28]}]]},
-      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\" , \"color\" : \"#B3B3B3\"}
+      \"geometry\": {\"type\": \"Point\", \"coordinates\": [[#{entrance[4]},#{entrance[3]}]]},
+      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\"}
       }"
       if !last 
       	station << ",\n\t\t"
       else 
       	station << "\n\t\t"
       end
+      return station
+end
+
+def createEntrance(entrance,last=false)
+	ent = "{ \"type\": \"Feature\",
+      \"geometry\": {\"type\": \"LineString\", \"coordinates\": [[#{entrance[4]},#{entrance[3]}],[#{entrance[29]}, #{entrance[28]}]]},
+      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\"}
+      }"
+      if !last 
+      	ent << ",\n\t\t"
+      else 
+      	ent << "\n\t\t"
+      end
+      return ent
 end
 
 output = 
@@ -50,8 +61,12 @@ c = CSV.table('stationentrances.csv')
 #       \"properties\": {\"Name\": \"#{c[ind][2]}\" , \"marker-size\" : \"small\"}
 #       }"
 
+allStations = []
 for i in 0..c.size-1
     output << createEntrance(c[i])
+    if !allStations.include? c[i][2]
+    	output << createStation(c[i])
+    end
 end
 output << createEntrance(c[c.size-1],true)
 output << "\n\t]
