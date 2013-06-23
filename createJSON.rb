@@ -66,6 +66,7 @@ for i in 0..c.size-1
     output << createEntrance(c[i])
     if !allStations.include? c[i][2]
     	output << createStation(c[i])
+    	allStations.push(c[i][2])
     end
 end
 output << createEntrance(c[c.size-1],true)
