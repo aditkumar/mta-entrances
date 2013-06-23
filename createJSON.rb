@@ -1,7 +1,7 @@
 require 'csv'
 
 def colors(line) 
-	output = "#{}FFFFFF"
+	output = "#FFFFFF"
 	if ["A","C","E"].include? line 
 		output = "#2850AD"
 	elsif ["B","D","F","M"].include? line
@@ -13,7 +13,7 @@ def colors(line)
 	elsif "L" == line
 		output = "#A7A9AC"
 	elsif ["N","Q","R"].include? line
-		output "#FCCC0A"
+		output = "#FCCC0A"
 	elsif "S" == line
 		output = "#808183"
 	elsif [1,2,3].include? line
@@ -28,9 +28,10 @@ def colors(line)
 end
 
 def createStation(entrance,last=false)
+	stationColor = colors(entrance[5])
 	station = "{ \"type\": \"Feature\",
       \"geometry\": {\"type\": \"Point\", \"coordinates\": [#{entrance[4]},#{entrance[3]}]},
-      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\", \"marker-color\" : colors(entrance[5])}
+      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\", \"marker-color\" : stationColor}
       }"
       if !last 
       	station << ",\n\t\t"
