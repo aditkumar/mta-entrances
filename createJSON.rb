@@ -10,15 +10,27 @@ def colors(line)
 		output = "#6CBE45"
 	elsif ["J","Z"].include? line
 		output = "#996633"
+	elsif "L" == line
+		output = "#A7A9AC"
+	elsif ["N","Q","R"].include? line
+		output "#FCCC0A"
+	elsif "S" == line
+		output = "#808183"
+	elsif [1,2,3].include? line
+		output = "#EE352E"
+	elsif [4,5,6].include? line
+		output = "#00933C"
+	elsif 7 == line
+		output = "#B933AD"
 	else
-
 	end
+	return output
 end
 
 def createStation(entrance,last=false)
 	station = "{ \"type\": \"Feature\",
       \"geometry\": {\"type\": \"Point\", \"coordinates\": [#{entrance[4]},#{entrance[3]}]},
-      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\"}
+      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\", \"marker-color\" : colors(entrance[5])}
       }"
       if !last 
       	station << ",\n\t\t"
