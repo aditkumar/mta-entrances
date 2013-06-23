@@ -193,7 +193,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.990568,40.735736]},
-      "properties": {"Name": "Union Square (Broadway)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
+      "properties": {"Name": "Union Square (Broadway)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.992629,40.730328],[-73.992286, 40.730477]]},
@@ -285,7 +285,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.985942,40.69218]},
-      "properties": {"Name": "Lawrence St (Broadway)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Lawrence St (Broadway)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.985942,40.69218],[-73.986114, 40.692258]]},
@@ -305,7 +305,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.981824,40.690635]},
-      "properties": {"Name": "DeKalb Av (4 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "DeKalb Av (4 Avenue)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.981824,40.690635],[-73.981651, 40.68981]]},
@@ -325,7 +325,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.97881,40.683666]},
-      "properties": {"Name": "Atlantic Av-Barclays Ctr (4 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Atlantic Av-Barclays Ctr (4 Avenue)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.97881,40.683666],[-73.978879, 40.683905]]},
@@ -333,7 +333,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.97881,40.683666]},
-      "properties": {"Name": "Pacific St (4 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Pacific St (4 Avenue)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.97881,40.683666],[-73.978412, 40.683928]]},
@@ -361,7 +361,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.988302,40.670847]},
-      "properties": {"Name": "9th St (4 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "9th St (4 Avenue)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.992872,40.665414],[-73.992729, 40.665299]]},
@@ -517,7 +517,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.972367,40.67705]},
-      "properties": {"Name": "7th Av (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "7th Av (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.972367,40.67705],[-73.972212, 40.677324]]},
@@ -529,7 +529,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.962246,40.661614]},
-      "properties": {"Name": "Prospect Park (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Prospect Park (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.961495,40.655292],[-73.961516, 40.655221]]},
@@ -537,7 +537,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.961495,40.655292]},
-      "properties": {"Name": "Parkside Av (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Parkside Av (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.962982,40.650527],[-73.963356, 40.649427]]},
@@ -545,7 +545,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.962982,40.650527]},
-      "properties": {"Name": "Church Av (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Church Av (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.964492,40.644031],[-73.964528, 40.644272]]},
@@ -553,7 +553,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.964492,40.644031]},
-      "properties": {"Name": "Beverly Rd (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Beverly Rd (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.963891,40.640927],[-73.963996, 40.641314]]},
@@ -561,7 +561,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.963891,40.640927]},
-      "properties": {"Name": "Cortelyou Rd (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Cortelyou Rd (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.962793,40.635082],[-73.962736, 40.635034]]},
@@ -569,7 +569,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.962793,40.635082]},
-      "properties": {"Name": "Newkirk Av (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Newkirk Av (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.961639,40.62927],[-73.961477, 40.62993]]},
@@ -577,7 +577,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.961639,40.62927]},
-      "properties": {"Name": "Av H (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Av H (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.960803,40.625039],[-73.960792, 40.62513]]},
@@ -585,7 +585,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.960803,40.625039]},
-      "properties": {"Name": "Av J (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Av J (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.959399,40.617618],[-73.959454, 40.617928]]},
@@ -593,7 +593,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.959399,40.617618]},
-      "properties": {"Name": "Av M (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Av M (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.957734,40.60867],[-73.957769, 40.608835]]},
@@ -601,7 +601,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.957734,40.60867]},
-      "properties": {"Name": "Kings Highway (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Kings Highway (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.955929,40.5993],[-73.955828, 40.598991]]},
@@ -609,7 +609,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.955929,40.5993]},
-      "properties": {"Name": "Av U (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Av U (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.955161,40.595246],[-73.95512, 40.59502]]},
@@ -617,7 +617,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.955161,40.595246]},
-      "properties": {"Name": "Neck Rd (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Neck Rd (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.954155,40.586896],[-73.954224, 40.587302]]},
@@ -625,7 +625,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.954155,40.586896]},
-      "properties": {"Name": "Sheepshead Bay (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Sheepshead Bay (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.961376,40.577621],[-73.960258, 40.577986]]},
@@ -633,7 +633,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.961376,40.577621]},
-      "properties": {"Name": "Brighton Beach (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Brighton Beach (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.961376,40.577621],[-73.960524, 40.577931]]},
@@ -653,7 +653,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.968501,40.576312]},
-      "properties": {"Name": "Ocean Parkway (Brighton)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
+      "properties": {"Name": "Ocean Parkway (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.968501,40.576312],[-73.967591, 40.576445]]},
@@ -901,7 +901,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.996353,40.624842]},
-      "properties": {"Name": "New Utrecht Av (Sea Beach)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "New Utrecht Av (Sea Beach)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.990414,40.620671],[-73.98941, 40.620062]]},
@@ -1225,7 +1225,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.987437,40.718315]},
-      "properties": {"Name": "Essex St (Nassau)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Essex St (Nassau)" , "marker-size" : "small", "marker-color" : "#996633","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.987437,40.718315],[-73.98765, 40.718551]]},
@@ -1249,7 +1249,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.889601,40.711396]},
-      "properties": {"Name": "Metropolitan Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Metropolitan Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.895877,40.706186],[-73.896232, 40.705955]]},
@@ -1257,7 +1257,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.895877,40.706186]},
-      "properties": {"Name": "Fresh Pond Rd (Myrtle)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Fresh Pond Rd (Myrtle)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.895877,40.706186],[-73.895559, 40.706115]]},
@@ -1269,7 +1269,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.903077,40.704423]},
-      "properties": {"Name": "Forest Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Forest Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.903077,40.704423],[-73.902389, 40.704443]]},
@@ -1281,7 +1281,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.90774,40.702762]},
-      "properties": {"Name": "Seneca Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Seneca Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.90774,40.702762],[-73.907894, 40.702835]]},
@@ -1293,7 +1293,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.919711,40.698664]},
-      "properties": {"Name": "Knickerbocker Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Knickerbocker Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.919711,40.698664],[-73.918771, 40.698913]]},
@@ -1305,7 +1305,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.927397,40.697857]},
-      "properties": {"Name": "Central Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Central Av (Myrtle)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.927397,40.697857],[-73.926525, 40.697876]]},
@@ -1317,7 +1317,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.002578,40.739777]},
-      "properties": {"Name": "8th Av (Canarsie)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "8th Av (Canarsie)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.002578,40.739777],[-74.002804, 40.739734]]},
@@ -1541,7 +1541,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.955827,40.680596]},
-      "properties": {"Name": "Franklin Av (Franklin)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Franklin Av (Franklin)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.957624,40.674772],[-73.957932, 40.674516]]},
@@ -1549,7 +1549,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.957624,40.674772]},
-      "properties": {"Name": "Park Place (Franklin)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Park Place (Franklin)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.957624,40.674772],[-73.957591, 40.675208]]},
@@ -1561,7 +1561,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.959245,40.670343]},
-      "properties": {"Name": "Botanic Gardens (Franklin)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Botanic Gardens (Franklin)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.919899,40.868072],[-73.921234, 40.867892]]},
@@ -1725,7 +1725,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.947649,40.817894]},
-      "properties": {"Name": "135th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "135th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.952343,40.811109],[-73.952318, 40.810879]]},
@@ -1753,7 +1753,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.954882,40.805085]},
-      "properties": {"Name": "116th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "116th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.954882,40.805085],[-73.955559, 40.804639]]},
@@ -1765,7 +1765,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.958158,40.800605]},
-      "properties": {"Name": "Cathedral Parkway-110th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Cathedral Parkway-110th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.958158,40.800605],[-73.958448, 40.800002]]},
@@ -1777,7 +1777,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.961454,40.796092]},
-      "properties": {"Name": "103rd St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "103rd St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.964699,40.791646],[-73.965009, 40.791642]]},
@@ -1785,7 +1785,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.964699,40.791646]},
-      "properties": {"Name": "96th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "96th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.968916,40.785868],[-73.969596, 40.785195]]},
@@ -1793,7 +1793,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.968916,40.785868]},
-      "properties": {"Name": "86th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "86th St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.968916,40.785868],[-73.969662, 40.785282]]},
@@ -1809,7 +1809,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.972143,40.781433]},
-      "properties": {"Name": "81st St - Museum of Natural History (8 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "81st St - Museum of Natural History (8 Avenue)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.972143,40.781433],[-73.971741, 40.782254]]},
@@ -1821,7 +1821,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.97641,40.775594]},
-      "properties": {"Name": "72nd St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "72nd St (8 Avenue)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.97641,40.775594],[-73.975977, 40.776431]]},
@@ -2441,7 +2441,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.813641,40.588034]},
-      "properties": {"Name": "Beach 90th St (Rockaway)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Beach 90th St (Rockaway)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.813641,40.588034],[-73.813755, 40.587929]]},
@@ -2461,7 +2461,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.820558,40.585307]},
-      "properties": {"Name": "Beach 98th St (Rockaway)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Beach 98th St (Rockaway)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.820558,40.585307],[-73.820249, 40.585342]]},
@@ -2477,7 +2477,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.827559,40.583209]},
-      "properties": {"Name": "Beach 105th St (Rockaway)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Beach 105th St (Rockaway)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.827559,40.583209],[-73.827474, 40.583369]]},
@@ -2497,7 +2497,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.835592,40.580903]},
-      "properties": {"Name": "Rockaway Park-Beach 116th (Rockaway)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Rockaway Park-Beach 116th (Rockaway)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.796924,40.590927],[-73.797789, 40.590744]]},
@@ -2609,7 +2609,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.878855,40.874811]},
-      "properties": {"Name": "Norwood-205th St (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Norwood-205th St (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.878855,40.874811],[-73.87961, 40.875087]]},
@@ -2621,7 +2621,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.887138,40.873244]},
-      "properties": {"Name": "Bedford Park Blvd (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Bedford Park Blvd (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.887138,40.873244],[-73.887788, 40.872198]]},
@@ -2637,7 +2637,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.893509,40.866978]},
-      "properties": {"Name": "Kingsbridge Rd (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Kingsbridge Rd (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.893509,40.866978],[-73.892739, 40.867688]]},
@@ -2649,7 +2649,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.897749,40.861296]},
-      "properties": {"Name": "Fordham Rd (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Fordham Rd (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.897749,40.861296],[-73.897424, 40.861147]]},
@@ -2669,7 +2669,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.900741,40.856093]},
-      "properties": {"Name": "182nd-183rd Sts (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "182nd-183rd Sts (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.900741,40.856093],[-73.900484, 40.855864]]},
@@ -2689,7 +2689,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.905227,40.85041]},
-      "properties": {"Name": "Tremont Av (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Tremont Av (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.905227,40.85041],[-73.905841, 40.850124]]},
@@ -2705,7 +2705,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.910136,40.8459]},
-      "properties": {"Name": "174-175th Sts (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "174-175th Sts (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.910136,40.8459],[-73.910885, 40.844939]]},
@@ -2717,7 +2717,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.9134,40.839306]},
-      "properties": {"Name": "170th St (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "170th St (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.9134,40.839306],[-73.913333, 40.840097]]},
@@ -2729,7 +2729,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.918432,40.833769]},
-      "properties": {"Name": "167th St (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "167th St (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.918432,40.833769],[-73.917562, 40.834286]]},
@@ -2749,7 +2749,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.925651,40.827905]},
-      "properties": {"Name": "Yankee Stadium-161st St (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Yankee Stadium-161st St (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.925651,40.827905],[-73.926004, 40.827488]]},
@@ -2773,7 +2773,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.938209,40.830135]},
-      "properties": {"Name": "155th St (Concourse)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "155th St (Concourse)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.942836,40.754203],[-73.942374, 40.754322]]},
@@ -3409,7 +3409,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.831008,40.714441]},
-      "properties": {"Name": "Kew Gardens-Union Turnpike (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Kew Gardens-Union Turnpike (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.831008,40.714441],[-73.830011, 40.713663]]},
@@ -3429,7 +3429,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.837324,40.718331]},
-      "properties": {"Name": "75th Av (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "75th Av (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.837324,40.718331],[-73.837916, 40.719061]]},
@@ -3445,7 +3445,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.844521,40.721691]},
-      "properties": {"Name": "Forest Hills-71st Av (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Forest Hills-71st Av (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.844521,40.721691],[-73.843389, 40.72149]]},
@@ -3545,7 +3545,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.891338,40.746644]},
-      "properties": {"Name": "Jackson Heights-Roosevelt Ave (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Jackson Heights-Roosevelt Ave (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.891338,40.746644],[-73.890955, 40.746597]]},
@@ -3609,7 +3609,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.937243,40.748973]},
-      "properties": {"Name": "Queens Plaza (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Queens Plaza (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.937243,40.748973],[-73.937896, 40.749086]]},
@@ -3633,7 +3633,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.946,40.747846]},
-      "properties": {"Name": "23rd St-Ely Av (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "23rd St-Ely Av (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.946,40.747846],[-73.94724, 40.747954]]},
@@ -3649,7 +3649,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.969055,40.757552]},
-      "properties": {"Name": "Lexington Av-53rd St (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Lexington Av-53rd St (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.969055,40.757552],[-73.970958, 40.75812]]},
@@ -3661,7 +3661,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.975224,40.760167]},
-      "properties": {"Name": "5th Av-53rd St (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "5th Av-53rd St (Queens Boulevard)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.975224,40.760167],[-73.975562, 40.760373]]},
@@ -3689,7 +3689,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.801109,40.702147]},
-      "properties": {"Name": "Parsons Blvd-Archer Av - Jamaica Center (Archer Av)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Parsons Blvd-Archer Av - Jamaica Center (Archer Av)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.801109,40.702147],[-73.80174, 40.701855]]},
@@ -3721,7 +3721,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.807969,40.700486]},
-      "properties": {"Name": "Sutphin Blvd-Archer Av - JFK (Archer Av)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Sutphin Blvd-Archer Av - JFK (Archer Av)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.807969,40.700486],[-73.807923, 40.70081]]},
@@ -3741,7 +3741,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.816859,40.702566]},
-      "properties": {"Name": "Jamaica-Van Wyck (Archer Av)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Jamaica-Van Wyck (Archer Av)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.816859,40.702566],[-73.81727, 40.702731]]},
@@ -4221,7 +4221,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.987495,40.75529]},
-      "properties": {"Name": "Times Square (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Times Square (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.987495,40.75529],[-73.987242, 40.756042]]},
@@ -4265,7 +4265,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.000201,40.737826]},
-      "properties": {"Name": "14th St (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "14th St (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.000201,40.737826],[-73.999711, 40.738775]]},
@@ -4353,7 +4353,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.008811,40.713051]},
-      "properties": {"Name": "Park Place (Clark)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Park Place (Clark)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.006571,40.709416],[-74.006409, 40.709475]]},
@@ -4361,7 +4361,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.006571,40.709416]},
-      "properties": {"Name": "Fulton St (Clark)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Fulton St (Clark)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.0091,40.706821],[-74.009544, 40.706506]]},
@@ -4393,7 +4393,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.989998,40.693219]},
-      "properties": {"Name": "Borough Hall (Clark)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
+      "properties": {"Name": "Borough Hall (Clark)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.989998,40.693219],[-73.990119, 40.693838]]},
@@ -4433,7 +4433,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.977666,40.684359]},
-      "properties": {"Name": "Atlantic Av-Barclays Ctr (Eastern Parkway)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Atlantic Av-Barclays Ctr (Eastern Parkway)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.975098,40.680829],[-73.974748, 40.680695]]},
@@ -4485,7 +4485,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.958131,40.670682]},
-      "properties": {"Name": "Franklin Av (Eastern Parkway)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Franklin Av (Eastern Parkway)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.958131,40.670682],[-73.957696, 40.670732]]},
@@ -5133,7 +5133,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.927351,40.818375]},
-      "properties": {"Name": "149th St-Grand Concourse (Jerome)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
+      "properties": {"Name": "149th St-Grand Concourse (Jerome)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.927351,40.818375],[-73.927101, 40.818405]]},
@@ -5305,7 +5305,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.967967,40.762526]},
-      "properties": {"Name": "59th St (Lexington)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
+      "properties": {"Name": "59th St (Lexington)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.97192,40.757107],[-73.972117, 40.757123]]},
@@ -5313,7 +5313,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.97192,40.757107]},
-      "properties": {"Name": "51st St (Lexington)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "51st St (Lexington)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.97192,40.757107],[-73.972108, 40.757293]]},
@@ -5385,7 +5385,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.989951,40.734673]},
-      "properties": {"Name": "14th St-Union Square (Lexington)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
+      "properties": {"Name": "14th St-Union Square (Lexington)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.989951,40.734673],[-73.989549, 40.73418]]},
@@ -5409,7 +5409,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.994659,40.725915]},
-      "properties": {"Name": "Bleecker St (Lexington)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Bleecker St (Lexington)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.994659,40.725915],[-73.994367, 40.725755]]},
@@ -5445,7 +5445,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.000193,40.718803]},
-      "properties": {"Name": "Canal St (Lexington)" , "marker-size" : "small", "marker-color" : "#996633","marker-symbol" : "circle"}
+      "properties": {"Name": "Canal St (Lexington)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.000193,40.718803],[-74.000388, 40.718197]]},
@@ -5457,7 +5457,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.004131,40.713065]},
-      "properties": {"Name": "Brooklyn Bridge-City Hall (Lexington)" , "marker-size" : "small", "marker-color" : "#996633","marker-symbol" : "circle"}
+      "properties": {"Name": "Brooklyn Bridge-City Hall (Lexington)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.004131,40.713065],[-74.004784, 40.712872]]},
@@ -5509,7 +5509,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.990151,40.692404]},
-      "properties": {"Name": "Borough Hall (Lexington)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
+      "properties": {"Name": "Borough Hall (Lexington)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.990151,40.692404],[-73.990301, 40.692299]]},
@@ -6117,7 +6117,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.940202,40.750582]},
-      "properties": {"Name": "Queensboro Plaza (Flushing)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
+      "properties": {"Name": "Queensboro Plaza (Flushing)" , "marker-size" : "small", "marker-color" : "#B933AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.940202,40.750582],[-73.940245, 40.750302]]},
@@ -6129,7 +6129,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.945264,40.747023]},
-      "properties": {"Name": "45 Rd-Court House Sq (Flushing)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "45 Rd-Court House Sq (Flushing)" , "marker-size" : "small", "marker-color" : "#B933AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.945264,40.747023],[-73.945349, 40.74613]]},
@@ -6173,7 +6173,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.981963,40.753821]},
-      "properties": {"Name": "5th Av (Flushing)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "5th Av (Flushing)" , "marker-size" : "small", "marker-color" : "#B933AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.013664,40.702068],[-74.013149, 40.702033]]},
@@ -6181,7 +6181,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.013664,40.702068]},
-      "properties": {"Name": "South Ferry (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
+      "properties": {"Name": "South Ferry (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.013664,40.702068],[-74.013149, 40.702033]]},
@@ -6269,7 +6269,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.986754,40.754672]},
-      "properties": {"Name": "Times Square-42nd St (Broadway)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Times Square-42nd St (Broadway)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.986754,40.754672],[-73.987097, 40.754335]]},
@@ -6289,7 +6289,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.98795,40.749567]},
-      "properties": {"Name": "34th St (Broadway)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "34th St (Broadway)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.98795,40.749567],[-73.987495, 40.749891]]},
@@ -6369,7 +6369,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.001775,40.719527]},
-      "properties": {"Name": "Canal St (UL) (Broadway)" , "marker-size" : "small", "marker-color" : "#996633","marker-symbol" : "circle"}
+      "properties": {"Name": "Canal St (UL) (Broadway)" , "marker-size" : "small", "marker-color" : "#FCCC0A","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.001775,40.719527],[-74.002019, 40.71966]]},
@@ -6517,7 +6517,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.97689,40.68446]},
-      "properties": {"Name": "Atlantic Av (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Atlantic Av (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.962246,40.661614],[-73.962285, 40.662482]]},
@@ -6585,7 +6585,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.975939,40.576127]},
-      "properties": {"Name": "West 8th St (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "West 8th St (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.975939,40.576127],[-73.974862, 40.576464]]},
@@ -6597,7 +6597,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.981233,40.577422]},
-      "properties": {"Name": "Stillwell Av (Brighton)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "Stillwell Av (Brighton)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.996895,40.626472],[-73.996465, 40.627299]]},
@@ -6693,7 +6693,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.007582,40.710374]},
-      "properties": {"Name": "Fulton St (Nassau)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Fulton St (Nassau)" , "marker-size" : "small", "marker-color" : "#996633","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.007582,40.710374],[-74.007648, 40.710106]]},
@@ -6745,7 +6745,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.996786,40.737335]},
-      "properties": {"Name": "6th Av (Canarsie)" , "marker-size" : "small", "marker-color" : "#FF6319","marker-symbol" : "circle"}
+      "properties": {"Name": "6th Av (Canarsie)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.996786,40.737335],[-73.996578, 40.737149]]},
@@ -6793,7 +6793,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.950275,40.714063]},
-      "properties": {"Name": "Lorimer St (Canarsie)" , "marker-size" : "small", "marker-color" : "#6CBE45","marker-symbol" : "circle"}
+      "properties": {"Name": "Lorimer St (Canarsie)" , "marker-size" : "small", "marker-color" : "#A7A9AC","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.950275,40.714063],[-73.949313, 40.71421]]},
@@ -7845,7 +7845,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.940133,40.840556]},
-      "properties": {"Name": "168th St (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "168th St (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.940133,40.840556],[-73.940083, 40.841024]]},
@@ -7933,7 +7933,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.981929,40.768247]},
-      "properties": {"Name": "59th St-Columbus Circle (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "59th St-Columbus Circle (Broadway-7th Ave)" , "marker-size" : "small", "marker-color" : "#EE352E","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.981929,40.768247],[-73.9824, 40.769227]]},
@@ -8301,7 +8301,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.925831,40.827994]},
-      "properties": {"Name": "Yankee Stadium-161st St (Jerome)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Yankee Stadium-161st St (Jerome)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.925831,40.827994],[-73.9261, 40.827759]]},
@@ -8417,7 +8417,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.976848,40.751776]},
-      "properties": {"Name": "Grand Central-42nd St (Lexington)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Grand Central-42nd St (Lexington)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.976848,40.751776],[-73.977753, 40.751653]]},
@@ -8545,7 +8545,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-74.009509,40.710368]},
-      "properties": {"Name": "Fulton St (Lexington)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Fulton St (Lexington)" , "marker-size" : "small", "marker-color" : "#00933C","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-74.009509,40.710368],[-74.009182, 40.710165]]},
@@ -8681,7 +8681,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.891394,40.746848]},
-      "properties": {"Name": "Broadway-74th St (Flushing)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Broadway-74th St (Flushing)" , "marker-size" : "small", "marker-color" : "#B933AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.918435,40.743132],[-73.917936, 40.742987]]},
@@ -8721,7 +8721,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.976041,40.751431]},
-      "properties": {"Name": "Grand Central-42nd St (Flushing)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Grand Central-42nd St (Flushing)" , "marker-size" : "small", "marker-color" : "#B933AD","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.986229,40.755983],[-73.986311, 40.756476]]},
@@ -8729,7 +8729,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.986229,40.755983]},
-      "properties": {"Name": "Times Square (42nd St Shuttle)" , "marker-size" : "small", "marker-color" : "#2850AD","marker-symbol" : "circle"}
+      "properties": {"Name": "Times Square (42nd St Shuttle)" , "marker-size" : "small", "marker-color" : "#6CBE45","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.979189,40.752769],[-73.978917, 40.75283]]},
@@ -8737,7 +8737,7 @@
       },
 		{ "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-73.979189,40.752769]},
-      "properties": {"Name": "Grand Central (42nd St Shuttle)" , "marker-size" : "small", "marker-color" : "#FFFFFF","marker-symbol" : "circle"}
+      "properties": {"Name": "Grand Central (42nd St Shuttle)" , "marker-size" : "small", "marker-color" : "#6CBE45","marker-symbol" : "circle"}
       },
 		{ "type": "Feature",
       "geometry": {"type": "LineString", "coordinates": [[-73.979189,40.752769],[-73.978396, 40.752218]]},
