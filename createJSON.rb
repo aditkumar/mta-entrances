@@ -31,7 +31,7 @@ def createStation(entrance,last=false)
 	stationColor = colors(entrance[5])
 	station = "{ \"type\": \"Feature\",
       \"geometry\": {\"type\": \"Point\", \"coordinates\": [#{entrance[4]},#{entrance[3]}]},
-      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\", \"marker-color\" : #{stationColor}}
+      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\", \"marker-color\" : \"#{stationColor}\"}
       }"
       if !last 
       	station << ",\n\t\t"
