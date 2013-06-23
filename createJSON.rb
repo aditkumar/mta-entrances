@@ -21,7 +21,7 @@ end
 def createEntrance(entrance,last=false)
 	station = "{ \"type\": \"Feature\",
       \"geometry\": {\"type\": \"LineString\", \"coordinates\": [[#{entrance[4]},#{entrance[3]}],[#{entrance[29]}, #{entrance[28]}]]},
-      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\" , \"marker-color\" : \"#B3B3B3\"}
+      \"properties\": {\"Name\": \"#{entrance[2]}\" , \"marker-size\" : \"small\" , \"color\" : \"#B3B3B3\"}
       }"
       if !last 
       	station << ",\n\t\t"
